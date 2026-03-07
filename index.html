@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Jan Aushadhi - Offline Search</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap');
+        :root { --brand: #4f46e5; --brand-light: #f0f4ff; --bg: #f8fafc; --text: #0f172a; --text-light: #64748b; --glass: rgba(255, 255, 255, 0.8); }
+        * { margin: 0; padding: 0; box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+        body { font-family: 'Inter', sans-serif; background-color: var(--bg); color: var(--text); padding-bottom: 100px; }
+        .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+        .glass { background: var(--glass); backdrop-filter: blur(12px); border: 1px solid rgba(255,255,255,0.3); border-radius: 24px; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1); }
+        header { padding: 30px 0; }
+        .logo-area { display: flex; align-items: center; gap: 15px; margin-bottom: 25px; }
+        .logo-icon { width: 50px; height: 50px; background: var(--brand); border-radius: 16px; display: flex; align-items: center; justify-content: center; color: white; transform: rotate(3deg); }
+        .logo-text h1 { font-size: 24px; font-weight: 800; }
+        .logo-text p { font-size: 10px; font-weight: 800; color: var(--brand); text-transform: uppercase; }
+        .search-box { display: flex; align-items: center; gap: 10px; padding: 5px 15px; }
+        .search-box input { flex: 1; border: none; background: transparent; padding: 15px 0; font-size: 18px; outline: none; }
+        .med-card { display: flex; align-items: center; gap: 15px; padding: 20px; margin-bottom: 15px; cursor: pointer; }
+        .med-icon { width: 55px; height: 55px; background: var(--brand-light); border-radius: 18px; display: flex; align-items: center; justify-content: center; color: var(--brand); flex-shrink: 0; }
+        .med-info { flex: 1; min-width: 0; }
+        .med-info h3 { font-size: 17px; font-weight: 700; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+        .med-info p { font-size: 11px; font-weight: 700; color: var(--text-light); text-transform: uppercase; }
+        .med-price { text-align: right; }
+        .med-price .price { font-size: 20px; font-weight: 800; }
+        nav { position: fixed; bottom: 25px; left: 5%; right: 5%; height: 75px; display: flex; justify-content: space-around; align-items: center; z-index: 100; }
+        .nav-item { display: flex; flex-direction: column; align-items: center; gap: 4px; color: var(--text-light); text-decoration: none; font-size: 10px; font-weight: 700; }
+        .nav-item.active { color: var(--brand); }
+        .modal-overlay { position: fixed; inset: 0; background: rgba(15, 23, 42, 0.6); backdrop-filter: blur(8px); display: none; align-items: flex-end; justify-content: center; z-index: 200; }
+        .modal-content { background: white; width: 100%; max-width: 500px; border-radius: 40px 40px 0 0; padding: 40px 30px; transform: translateY(100%); transition: 0.3s; }
+        .modal-overlay.active { display: flex; }
+        .modal-overlay.active .modal-content { transform: translateY(0); }
+        .cat-chip { padding: 10px 20px; background: white; border: 1px solid #e2e8f0; border-radius: 15px; font-size: 13px; font-weight: 600; cursor: pointer; margin: 5px; display: inline-block; }
+        .cat-chip.active { background: var(--brand); color: white; }
+        .loading { text-align: center; padding: 50px; font-weight: 700; color: var(--brand); }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo-area">
+                <div class="logo-icon"><svg viewBox="0 0 24 24" width="28" height="28" stroke="currentColor" stroke-width="2.5" fill="none"><path d="m10.5 20.5 10-10a4.95 4.95 0 1 0-7-7l-10 10a4.95 4.95 0 1 0 7 7Z"></path><path d="m8.5 8.5 7 7"></path></svg></div>
+                <div class="logo-text"><h1>Jan Aushadhi</h1><p>By Vaseem Akaram</p></div>
+            </div>
+            <div class="glass search-box">
+                <svg viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" stroke-width="2.5" fill="none"><circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.3-4.3"></path></svg>
+                <input type="text" id="searchInput" placeholder="Search medicines...">
+            </div>
+        </header>
+        <div id="medicineList"><div class="loading">Loading Medicines...</div></div>
+        <div style="margin-top:40px"><p style="font-size:11px; font-weight:800; color:var(--text-light); margin-bottom:15px;">CATEGORIES</p><div id="categoryList"></div></div>
+    </div>
+
+    <nav class="glass">
+        <a href="#" class="nav-item active"><svg viewBox="0 0 24 24" width="24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.3-4.3"></path></svg><span>Home</span></a>
+        <a href="#" class="nav-item"><svg viewBox="0 0 24 24" width="24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M12 8v4l3 3"></path><circle cx="12" cy="12" r="9"></circle></svg><span>Recent</span></a>
+        <a href="#" class="nav-item"><svg viewBox="0 0 24 24" width="24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"></path></svg><span>Saved</span></a>
+    </nav>
+
+    <div class="modal-overlay" id="modalOverlay" onclick="closeModal()">
+        <div class="modal-content" onclick="event.stopPropagation()">
+            <div id="modalBody"></div>
+        </div>
+    </div>
+
+    <script>
+        let MEDICINES_DATA = [];
+        let activeCategory = 'All';
+
+        // Fetch Data from External JSON
+        async function loadData() {
+            try {
+                const response = await fetch('medicines.json');
+                const json = await response.json();
+                // Map data if it's in {A, B, C, D, E} format
+                MEDICINES_DATA = json.data.slice(1).map(item => ({
+                    drug_code: String(item.A || ''),
+                    drug_name: String(item.B || ''),
+                    unit_size: String(item.C || ''),
+                    mrp: String(item.D || '0'),
+                    category: String(item.E || 'General')
+                }));
+                renderCategories();
+                renderMedicines(MEDICINES_DATA);
+            } catch (e) {
+                document.getElementById('medicineList').innerHTML = '<div class="loading" style="color:red">Error loading medicines.json. Make sure the file exists and you are using a server.</div>';
+            }
+        }
+
+        function renderMedicines(data) {
+            const list = document.getElementById('medicineList');
+            list.innerHTML = data.length ? '' : '<div style="text-align:center;padding:50px;color:#94a3b8">No results.</div>';
+            data.slice(0, 50).forEach(med => {
+                const div = document.createElement('div');
+                div.className = 'glass med-card';
+                div.onclick = () => openModal(med);
+                div.innerHTML = `<div class="med-icon"><svg viewBox="0 0 24 24" width="24" height="24" stroke="currentColor" stroke-width="2.5" fill="none"><path d="m10.5 20.5 10-10a4.95 4.95 0 1 0-7-7l-10 10a4.95 4.95 0 1 0 7 7Z"></path></svg></div><div class="med-info"><h3>${med.drug_name}</h3><p>${med.category}</p></div><div class="med-price"><div class="price">₹${med.mrp}</div><p style="font-size:9px;color:#94a3b8">${med.unit_size}</p></div>`;
+                list.appendChild(div);
+            });
+        }
+
+        function renderCategories() {
+            const cats = ['All', ...new Set(MEDICINES_DATA.map(m => m.category))];
+            const list = document.getElementById('categoryList');
+            list.innerHTML = '';
+            cats.forEach(cat => {
+                const chip = document.createElement('div');
+                chip.className = `cat-chip ${activeCategory === cat ? 'active' : ''}`;
+                chip.innerText = cat;
+                chip.onclick = () => { activeCategory = cat; renderCategories(); filter(); };
+                list.appendChild(chip);
+            });
+        }
+
+        function filter() {
+            const term = document.getElementById('searchInput').value.toLowerCase();
+            const filtered = MEDICINES_DATA.filter(m => (m.drug_name.toLowerCase().includes(term) || m.drug_code.includes(term)) && (activeCategory === 'All' || m.category === activeCategory));
+            renderMedicines(filtered);
+        }
+
+        function openModal(med) {
+            document.getElementById('modalBody').innerHTML = `<div style="text-align:center;margin-bottom:20px"><h2 style="font-size:22px">${med.drug_name}</h2><p style="color:var(--brand);font-weight:700">${med.category}</p></div><div style="background:#0f172a;color:white;padding:25px;border-radius:25px;text-align:center;margin-bottom:20px"><p style="font-size:10px;opacity:0.6">PRICE</p><p style="font-size:32px;font-weight:800">₹${med.mrp}</p></div><button onclick="closeModal()" style="width:100%;background:var(--brand);color:white;border:none;padding:18px;border-radius:18px;font-weight:700">Close</button>`;
+            document.getElementById('modalOverlay').classList.add('active');
+        }
+
+        function closeModal() { document.getElementById('modalOverlay').classList.remove('active'); }
+
+        document.getElementById('searchInput').oninput = filter;
+        loadData();
+    </script>
+</body>
+</html>
