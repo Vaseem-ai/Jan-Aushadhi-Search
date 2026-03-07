@@ -1,0 +1,8008 @@
+{"data":[{
+  "A" : "Drug C ode",
+  "B" : "Drug Name",
+  "C" : "Unit Size",
+  "D" : "Price",
+  "E" : "Group Name",
+  "F" : null
+},
+{
+  "A" : 8150,
+  "B" : "3-way stopcock with 10 cm extension line",
+  "C" : "1's",
+  "D" : 30,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 1178,
+  "B" : "5-Flurouracil Inj. 500mg",
+  "C" : "10 ml",
+  "D" : 11.5,
+  "E" : "Oncology",
+  "F" : null
+},
+{
+  "A" : 304,
+  "B" : "a-ß Arteether Injection 150 mg",
+  "C" : "2 ml Ampoule",
+  "D" : 19,
+  "E" : "Anti-Malarial",
+  "F" : null
+},
+{
+  "A" : 2250,
+  "B" : "Abacavir 600mg and Lamivudine 300mg Tablets",
+  "C" : "30's Bottle",
+  "D" : "Under Process",
+  "E" : "Anti-Retroviral",
+  "F" : null
+},
+{
+  "A" : 2249,
+  "B" : "Abacavir 600mg, Dolutegravir 50mg and Lamivudine 300mg Tablets",
+  "C" : "30's Bottle",
+  "D" : "Under Process",
+  "E" : "Anti-Retroviral",
+  "F" : null
+},
+{
+  "A" : 8089,
+  "B" : "Abdominal Belt Velcro, Cream color (Large)",
+  "C" : "1's",
+  "D" : 240,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 8091,
+  "B" : "Abdominal Belt Velcro, Cream color (Medium)",
+  "C" : "1's",
+  "D" : 240,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 8090,
+  "B" : "Abdominal Belt Velcro, Cream color (Small)",
+  "C" : "1's",
+  "D" : 240,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 8092,
+  "B" : "Abdominal Belt Velcro, Cream color (XL)",
+  "C" : "1's",
+  "D" : 250,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 8093,
+  "B" : "Abdominal Belt Velcro, Cream color (XXL)",
+  "C" : "1's",
+  "D" : 250,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 5065,
+  "B" : "Abdominal Drainage Kit, Sterile (2000ml, 24 Graduate)",
+  "C" : "1's",
+  "D" : 100,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 5066,
+  "B" : "Abdominal Drainage Kit, Sterile (2000ml, 28 Graduate)",
+  "C" : "1's",
+  "D" : 100,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 2283,
+  "B" : "Abiraterone Acetate Tablets 250mg",
+  "C" : "120's bottle",
+  "D" : "Under Process",
+  "E" : "Oncology",
+  "F" : null
+},
+{
+  "A" : 5002,
+  "B" : "Absorbent Cotton Wool IP 200 g",
+  "C" : "1's",
+  "D" : 68,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 5003,
+  "B" : "Absorbent Cotton Wool IP 500 g",
+  "C" : "1's",
+  "D" : 172,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 5001,
+  "B" : "Absorbent Cotton Wool IP 75 g",
+  "C" : "1's",
+  "D" : 29,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 6040,
+  "B" : "Absorbent Gelatin Sponge, Sterilized (80mm x 50mm x 10mm)",
+  "C" : "1's",
+  "D" : 100,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 2284,
+  "B" : "Acamprosate Calcium Tablets 333mg",
+  "C" : "6's",
+  "D" : "Under Process",
+  "E" : "Anti-Alcoholism",
+  "F" : null
+},
+{
+  "A" : 2224,
+  "B" : "Acarbose 50mg and Metformin",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Anti-Diabetic",
+  "F" : null
+},
+{
+  "A" : null,
+  "B" : "Hydrochloride 500mg Tablets",
+  "C" : null,
+  "D" : null,
+  "E" : null,
+  "F" : null
+},
+{
+  "A" : 1488,
+  "B" : "Acarbose Tablets IP 25 mg",
+  "C" : "10's",
+  "D" : 40,
+  "E" : "Anti-Diabetic",
+  "F" : null
+},
+{
+  "A" : 369,
+  "B" : "Acarbose Tablets IP 50 mg",
+  "C" : "10's",
+  "D" : 62,
+  "E" : "Anti-Diabetic",
+  "F" : null
+},
+{
+  "A" : 2121,
+  "B" : "Acebrophylline (sustained-release) 200mg, Montelukast 10mg and Fexofenadine 120mg Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 1489,
+  "B" : "Acebrophylline 100mg and Acetylcysteine 600mg Tablets",
+  "C" : "10's",
+  "D" : 60,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 1255,
+  "B" : "Acebrophylline 200mg (Sustained Release) and Montelukast 10mg Tablets",
+  "C" : "10's",
+  "D" : 55,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 541,
+  "B" : "Acebrophylline Capsules 100 mg",
+  "C" : "10's",
+  "D" : 22,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 1490,
+  "B" : "Acebrophylline Sustained Release Tablets 200 mg",
+  "C" : "10's",
+  "D" : 30,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 1,
+  "B" : "Aceclofenac 100mg and Paracetamol 325mg Tablets",
+  "C" : "10's",
+  "D" : 10,
+  "E" : "Analgesic/Antipyreti c/Anti-Inflammatory",
+  "F" : null
+},
+{
+  "A" : 1996,
+  "B" : "Aceclofenac 100Mg, Paracetamol 325Mg And Trypsin- Chymotrypsin 150000Au Tablets",
+  "C" : "10's",
+  "D" : 40,
+  "E" : "Analgesic/Antipyreti c/Anti-Inflammatory",
+  "F" : null
+},
+{
+  "A" : 637,
+  "B" : "Aceclofenac 100mg, Paracetamol 325mg and Chlorzoxazone 250mg Tablets",
+  "C" : "10's",
+  "D" : 16,
+  "E" : "Analgesic/Antipyreti c/Anti-Inflammatory",
+  "F" : null
+},
+{
+  "A" : 512,
+  "B" : "Aceclofenac 100mg, Paracetamol 325mg and Serratiopeptidase 15mg Tablets",
+  "C" : "10's",
+  "D" : 19,
+  "E" : "Analgesic/Antipyreti c/Anti-Inflammatory",
+  "F" : null
+},
+{
+  "A" : 1493,
+  "B" : "Aceclofenac 100mg, Paracetamol 325mg and Thiocolchicoside 4mg Tablets",
+  "C" : "10's",
+  "D" : 50,
+  "E" : "Analgesic/Antipyreti c/Anti-Inflammatory",
+  "F" : null
+},
+{
+  "A" : 1495,
+  "B" : "Aceclofenac 100mg, Paracetamol 325mg and Tizanidine 2mg Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Analgesic/Antipyreti c/Anti-Inflammatory",
+  "F" : null
+},
+{
+  "A" : 1492,
+  "B" : "Aceclofenac 200mg (Sustained release) and Rabeprazole Sodium 20mg (Enteric-coated) Capsules",
+  "C" : "10's",
+  "D" : 30,
+  "E" : "Analgesic/Antipyreti c/Anti-Inflammatory",
+  "F" : null
+},
+{
+  "A" : 516,
+  "B" : "Aceclofenac Sustained Release Tablets 200mg",
+  "C" : "10's",
+  "D" : 20,
+  "E" : "Analgesic/Antipyreti c/Anti-Inflammatory",
+  "F" : null
+},
+{
+  "A" : 2,
+  "B" : "Aceclofenac Tablets IP 100 mg",
+  "C" : "10's",
+  "D" : 8,
+  "E" : "Analgesic/Antipyreti c/Anti-Inflammatory",
+  "F" : null
+},
+{
+  "A" : 426,
+  "B" : "Acenocoumarol Tablets IP 2 mg",
+  "C" : "30's",
+  "D" : 36,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 768,
+  "B" : "Acetazolamide Tablets IP 250mg",
+  "C" : "10's",
+  "D" : 18,
+  "E" : "Altitude Sickness",
+  "F" : null
+},
+{
+  "A" : 1997,
+  "B" : "Acetazolamide Tablets IP 250mg",
+  "C" : "15's",
+  "D" : "Under Process",
+  "E" : "Altitude Sickness",
+  "F" : null
+},
+{
+  "A" : 2225,
+  "B" : "Acetylcysteine Effervescent Tablets 600mg",
+  "C" : "10's",
+  "D" : 135,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 1170,
+  "B" : "Acetylcysteine Injection 200 mg per ml",
+  "C" : "2 ml Ampoules",
+  "D" : 25,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 539,
+  "B" : "Acetylcysteine Tablets 600 mg",
+  "C" : "10's",
+  "D" : 32,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 769,
+  "B" : "Acetylsalicylic Acid (Aspirin) Gastro- resistant Tablets IP 325mg",
+  "C" : "14's",
+  "D" : 8,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 1496,
+  "B" : "Aciclovir Dispersible Tablets IP 400 mg",
+  "C" : "5's",
+  "D" : 30,
+  "E" : "Anti-Viral",
+  "F" : null
+},
+{
+  "A" : 393,
+  "B" : "Aciclovir Dispersible Tablets IP 800 mg",
+  "C" : "5's",
+  "D" : 44,
+  "E" : "Anti-Viral",
+  "F" : null
+},
+{
+  "A" : 29,
+  "B" : "Aciclovir Tablets IP 400 mg",
+  "C" : "10's",
+  "D" : 44,
+  "E" : "Anti-Viral",
+  "F" : null
+},
+{
+  "A" : 1497,
+  "B" : "Acitretin Capsules IP 25 mg",
+  "C" : "10's",
+  "D" : 250,
+  "E" : "Derma Care",
+  "F" : null
+},
+{
+  "A" : 1498,
+  "B" : "Acotiamide Tablets 100mg",
+  "C" : "10's",
+  "D" : 73,
+  "E" : "Gastrointestinal (GIT)",
+  "F" : null
+},
+{
+  "A" : 699,
+  "B" : "Acyclovir Eye Ointment IP 3% W/W",
+  "C" : "5 gm",
+  "D" : 25,
+  "E" : "Opthalmic/Otic",
+  "F" : null
+},
+{
+  "A" : 1499,
+  "B" : "Adalimumab Injection 40mg per 0.8 ml (For subcutaneous use only)",
+  "C" : "0.8 ml in 1 prefilled syringe",
+  "D" : 13000,
+  "E" : "Ortho",
+  "F" : null
+},
+{
+  "A" : 633,
+  "B" : "Adapalene 0.1%w/w and Clindamycin Phosphate 1%w/w Gel",
+  "C" : "15 gm tubes",
+  "D" : 32,
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : 110,
+  "B" : "Adapalene 0.1%w/w Gel",
+  "C" : "15 gm tubes",
+  "D" : 29,
+  "E" : "Derma Care",
+  "F" : null
+},
+{
+  "A" : 2286,
+  "B" : "Adapalene 1% w/w and Benzoyl Peroxide 2.5% w/w Gel 15 gm",
+  "C" : "15gm Lami Tube",
+  "D" : "Under Process",
+  "E" : "Derma Care",
+  "F" : null
+},
+{
+  "A" : 772,
+  "B" : "Adenosine Injection 3mg/ml",
+  "C" : "2 ml",
+  "D" : 25,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 261,
+  "B" : "Adenosine Injection IP 6 mg per 2ml",
+  "C" : "2 ml",
+  "D" : 105,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 5009,
+  "B" : "Adhesive Bandages Washproof",
+  "C" : "1's",
+  "D" : 1,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 8125,
+  "B" : "Adhesive Surgical Paper Tape Size 1.25cmx5m",
+  "C" : "1's",
+  "D" : 7,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 8123,
+  "B" : "Adhesive Surgical Paper Tape Size 5cmx5m",
+  "C" : "1's",
+  "D" : 26,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 8124,
+  "B" : "Adhesive Surgical Paper Tape Size 2.5cmx5m",
+  "C" : "1's",
+  "D" : 13,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 8151,
+  "B" : "Adhesive wound dressings, 25cm x 10cm",
+  "C" : "1's",
+  "D" : 20,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 8108,
+  "B" : "Adult Diaper (Large)",
+  "C" : "5's",
+  "D" : 140,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 8107,
+  "B" : "Adult Diaper (Medium)",
+  "C" : "5's",
+  "D" : 130,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 8109,
+  "B" : "Adult Diaper (XL)",
+  "C" : "5's",
+  "D" : 160,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 9037,
+  "B" : "Adult Diaper; Pant Style Extra Large; Waist Size: 48 inch - 65 inch",
+  "C" : "10's in Mono- Pack",
+  "D" : "Under Process",
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 9036,
+  "B" : "Adult Diaper; Pant Style Large; Waist Size: 38 inch - 54 inch",
+  "C" : "10's in Mono- Pack",
+  "D" : "Under Process",
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 9035,
+  "B" : "Adult Diaper; Pant Style Medium; Waist Size: 28 inch - 45 inch",
+  "C" : "10's in Mono- Pack",
+  "D" : "Under Process",
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 9034,
+  "B" : "Adult Diaper; Pant Style Small; Waist",
+  "C" : "10's in Mono- Pack",
+  "D" : "Under Process",
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : null,
+  "B" : "Size: 28 inch - 35 inch",
+  "C" : null,
+  "D" : null,
+  "E" : null,
+  "F" : null
+},
+{
+  "A" : 1500,
+  "B" : "Aflibercept Injection 2mg per 0.05ml",
+  "C" : "1 ml Ampoule",
+  "D" : "Under Process",
+  "E" : "Opthalmic/Otic",
+  "F" : null
+},
+{
+  "A" : 1898,
+  "B" : "Agomelatine Tablets 25 mg",
+  "C" : "10's",
+  "D" : 66,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 178,
+  "B" : "Albendazole 400mg and Ivermectin 6mg Tablets",
+  "C" : "1's",
+  "D" : 6.6,
+  "E" : "Anthelmintic",
+  "F" : null
+},
+{
+  "A" : 177,
+  "B" : "Albendazole Oral Suspension IP 200 mg per 5ml",
+  "C" : "10 ml",
+  "D" : 8,
+  "E" : "Anthelmintic",
+  "F" : null
+},
+{
+  "A" : 1236,
+  "B" : "Albendazole Tablets IP 400mg",
+  "C" : "1's",
+  "D" : 3.3,
+  "E" : "Anthelmintic",
+  "F" : null
+},
+{
+  "A" : 5097,
+  "B" : "Alcohol Swab (Spirit Swab)",
+  "C" : "1's",
+  "D" : 1,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 2226,
+  "B" : "Alendronate Sodium Tablets USP 70mg",
+  "C" : "4's",
+  "D" : 20,
+  "E" : "Osteoporosis",
+  "F" : null
+},
+{
+  "A" : 522,
+  "B" : "Alfacalcidol Soft Gelatin Capsules 0.25 mcg",
+  "C" : "10's",
+  "D" : 22,
+  "E" : "Ortho",
+  "F" : null
+},
+{
+  "A" : 1855,
+  "B" : "Alfuzosin 10mg and Dutasteride 0.5mg Tablets",
+  "C" : "10's",
+  "D" : 60,
+  "E" : "Urology",
+  "F" : null
+},
+{
+  "A" : 1854,
+  "B" : "Alfuzosin Prolonged- release Tablets IP 10mg",
+  "C" : "10's",
+  "D" : 45,
+  "E" : "Urology",
+  "F" : null
+},
+{
+  "A" : 336,
+  "B" : "Allopurinol Tablets IP 100 mg",
+  "C" : "10's",
+  "D" : 11,
+  "E" : "Ortho",
+  "F" : null
+},
+{
+  "A" : 2222,
+  "B" : "Allopurinol Tablets IP 300 mg",
+  "C" : "10's",
+  "D" : 30,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 1257,
+  "B" : "Allylestrenol Tablets 5 mg",
+  "C" : "10's",
+  "D" : 33,
+  "E" : "Gynaecology",
+  "F" : null
+},
+{
+  "A" : 1960,
+  "B" : "Aloe Vera 10% W/W and Vitamin E 1% W/W Moisturising Cream",
+  "C" : "60 gm Tube",
+  "D" : "Under Process",
+  "E" : "DERMA",
+  "F" : null
+},
+{
+  "A" : 2287,
+  "B" : "Alogliptin 25mg Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Anti-Diabetic",
+  "F" : null
+},
+{
+  "A" : 2221,
+  "B" : "Alpha Ketoanalouge and Essential Amino Acid Tablets",
+  "C" : "10's",
+  "D" : 80,
+  "E" : "Anti-Diabetic",
+  "F" : null
+},
+{
+  "A" : 779,
+  "B" : "Alpha Lipolic Acid 100mg, Vitamin D3 1000IU, Folic Acid 1.5mg, Pyridoxine 3mg and Methylcobalamin150 0mcg Tablets",
+  "C" : "10's",
+  "D" : 48,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 781,
+  "B" : "Alprazolam 0.25mg and Fluoxetine 20mg Tablets",
+  "C" : "10's",
+  "D" : 14,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1900,
+  "B" : "Alprazolam 0.25mg and Propranolol Hydrochloride 10mg Tablets",
+  "C" : "10's",
+  "D" : 15,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1899,
+  "B" : "Alprazolam 0.25mg and Propranolol Hydrochloride 20mg Tablets",
+  "C" : "10's",
+  "D" : 16,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1901,
+  "B" : "Alprazolam 0.5mg and Sertraline Hydrochloride 25mg Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1902,
+  "B" : "Alprazolam 0.5mg and Sertraline Hydrochloride 50mg Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 313,
+  "B" : "Alprazolam Tablets IP 0.25 mg",
+  "C" : "10's",
+  "D" : 4.4,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 314,
+  "B" : "Alprazolam Tablets IP 0.5 mg",
+  "C" : "10's",
+  "D" : 7.7,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1501,
+  "B" : "Amantadine Hydrochloride Capsules IP 100 mg",
+  "C" : "10's",
+  "D" : 50,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 2215,
+  "B" : "Ambroxol 15mg, Dextromethorphan 10mg and Cetirizine 5mg Syrup per 5ml (Suger free)",
+  "C" : "100 ml",
+  "D" : "Under Process",
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 537,
+  "B" : "Ambroxol Hydrochloride and Levosalbutamol Sulphate Syrup",
+  "C" : "100 ML",
+  "D" : 23,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 30,
+  "B" : "Amikacin Injection IP 100 mg per 2 ml",
+  "C" : "2 ml Vial",
+  "D" : 12,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 31,
+  "B" : "Amikacin Injection IP 250 mg per 2 ml",
+  "C" : "2 ml Vial",
+  "D" : 20,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 32,
+  "B" : "Amikacin Injection IP 500 mg per 2 ml",
+  "C" : "2 ml Vial",
+  "D" : 29,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1261,
+  "B" : "Amiloride + Hydrochlorthiazide Tablet 2.5/25 mg",
+  "C" : "10's",
+  "D" : 15,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 1219,
+  "B" : "Amino Acid Solution for IV",
+  "C" : "200 ml Glass Bottle",
+  "D" : 247,
+  "E" : "Electrolytes",
+  "F" : null
+},
+{
+  "A" : 1502,
+  "B" : "Amiodarone Tablets IP 100 mg",
+  "C" : "10's",
+  "D" : 31,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 430,
+  "B" : "Amiodarone Tablets IP 200 mg",
+  "C" : "10's",
+  "D" : 59,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 1903,
+  "B" : "Amisulpride Tablets IP 100 mg",
+  "C" : "10's",
+  "D" : 40,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1904,
+  "B" : "Amisulpride Tablets IP 200 mg",
+  "C" : "10's",
+  "D" : 70,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 2223,
+  "B" : "Amisulpride Tablets IP 300mg",
+  "C" : "10's",
+  "D" : 80,
+  "E" : "Ortho",
+  "F" : null
+},
+{
+  "A" : 784,
+  "B" : "Amisulpride Tablets IP 50mg",
+  "C" : "10's",
+  "D" : 31,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1908,
+  "B" : "Amitriptyline Hydrochloride 25mg Chlordiazepoxide 10mg Tablets",
+  "C" : "10's",
+  "D" : 10,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 786,
+  "B" : "Amitriptyline Hydrochloride Tablets IP 10mg",
+  "C" : "10's",
+  "D" : 6.6,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 785,
+  "B" : "Amitriptyline Hydrochloride Tablets IP 25mg",
+  "C" : "15's",
+  "D" : 8.8,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1907,
+  "B" : "Amitriptyline Hydrochloride Tablets IP 5 mg",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1906,
+  "B" : "Amitriptyline Hydrochloride Tablets IP 50 mg",
+  "C" : "10's",
+  "D" : 15,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1905,
+  "B" : "Amitriptyline Hydrochloride Tablets IP 75 mg",
+  "C" : "10's",
+  "D" : 20,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 2227,
+  "B" : "Amlodipine 5 mg, Losartan Potassium 50 mg & Hydrochlorothiazide 12.5 mg Tablets",
+  "C" : "10's",
+  "D" : 25,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 263,
+  "B" : "Amlodipine 5mg and Atenolol 50mg Tablets IP",
+  "C" : "10's",
+  "D" : 7,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 446,
+  "B" : "Amlodipine 5mg and Hydrochlorothiazide 12.5mg Tablets",
+  "C" : "10's",
+  "D" : 16.5,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 285,
+  "B" : "Amlodipine 5mg and Lisinopril 5mg Tablets IP",
+  "C" : "15's",
+  "D" : 16,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 2228,
+  "B" : "Amlodipine 5mg and Perindopril 4mg Tablets",
+  "C" : "10's",
+  "D" : 30,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 1503,
+  "B" : "Amlodipine Besilate 5mg and Bisoprolol Fumarate 5mg Tablets",
+  "C" : "10's",
+  "D" : 18,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 2050,
+  "B" : "Amlodipine Tablet IP 10mg",
+  "C" : "10's",
+  "D" : 10,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 264,
+  "B" : "Amlodipine Tablets IP 5mg",
+  "C" : "10's",
+  "D" : 5.5,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 1504,
+  "B" : "Amorolfine Cream 0.25% w/w",
+  "C" : "30 g",
+  "D" : 55,
+  "E" : "Anti-Fungal",
+  "F" : null
+},
+{
+  "A" : 2229,
+  "B" : "Amorphous Hydrogel Wound Dressing with Colloidal Silver",
+  "C" : "10gm Lami Tube",
+  "D" : "Under Process",
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : 1910,
+  "B" : "Amoxapine Tablets IP 100mg",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1909,
+  "B" : "Amoxapine Tablets IP 50mg",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1975,
+  "B" : "Amoxycillin 125Mg , Cloxacillin 125Mg And Lactic Acid Bacillus 60 Million Spore Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 35,
+  "B" : "Amoxycillin 1g and Potassium Clavulanate 200mg Injection IP",
+  "C" : "Vial & Wfi",
+  "D" : 58,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1973,
+  "B" : "Amoxycillin 200Mg , Clavulanic Acid 28.5Mg And Lactic Acid Bacillus 30 Million Spore Dry syrup",
+  "C" : "30 ml Bottle",
+  "D" : "Under Process",
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1971,
+  "B" : "Amoxycillin 200Mg , Clavulanic Acid 28.5Mg And Lactic Acid Bacillus 60 Million Spore Dry syrup",
+  "C" : "30 ml Bottle",
+  "D" : 32,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 36,
+  "B" : "Amoxycillin 200mg and Potassium Clavulanate 28.5mg Oral Suspension IP per 5ml",
+  "C" : "30 ml",
+  "D" : 27,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 40,
+  "B" : "Amoxycillin 250mg and Cloxacillin 250mg Capsules",
+  "C" : "10's",
+  "D" : 29,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 401,
+  "B" : "Amoxycillin 250mg and Potassium Clavulanate 125mg Tablets IP",
+  "C" : "6's",
+  "D" : 47,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 37,
+  "B" : "Amoxycillin 250mg and Potassium Clavulanate 50mg Injection IP",
+  "C" : "Vial & Wfi",
+  "D" : 28,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1974,
+  "B" : "Amoxycillin 250mg, Cloxacillin 250mg And Lactic Acid Bacillus 100 Million Spore Tablets",
+  "C" : "6's",
+  "D" : "Under Process",
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1977,
+  "B" : "Amoxycillin 250Mg, Dicloxacillin 250Mg And Lactic Acid Bacillus 20 Million Spore Capsule",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1976,
+  "B" : "Amoxycillin 250Mg, Dicloxacillin 250Mg And Lactic Acid Bacillus 60 Million Spore Capsule",
+  "C" : "10's",
+  "D" : 35,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1507,
+  "B" : "Amoxycillin 250mg, Dicloxacillin 250mg and Lactic Acid Bacillus 2.5 billion Capsules",
+  "C" : "10's",
+  "D" : 48,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1505,
+  "B" : "Amoxycillin 400mg and Potassium Clavulanate 57mg Oral Suspension IP",
+  "C" : "30 ml",
+  "D" : 50,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 38,
+  "B" : "Amoxycillin 500mg and Potassium Clavulanate 100mg Injection IP",
+  "C" : "Vial & Wfi",
+  "D" : 40,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 39,
+  "B" : "Amoxycillin 500mg and Potassium Clavulanate 125mg Tablets IP",
+  "C" : "6's",
+  "D" : 56.1,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1972,
+  "B" : "Amoxycillin 500mg, Clavulanic Acid 125mg and Lactic Acid Bacillus 60 Million Spores Tablets",
+  "C" : "10's",
+  "D" : 100,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1506,
+  "B" : "Amoxycillin 80mg and Potassium",
+  "C" : "10 ml",
+  "D" : 35,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : null,
+  "B" : "Clavulanate 11.4mg Oral Suspension IP",
+  "C" : null,
+  "D" : null,
+  "E" : null,
+  "F" : null
+},
+{
+  "A" : 402,
+  "B" : "Amoxycillin 875mg and Potassium Clavulanate 125mg Tablets IP",
+  "C" : "6's",
+  "D" : 77,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 44,
+  "B" : "Amoxycillin Capsules IP 250mg",
+  "C" : "10's",
+  "D" : 12,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 45,
+  "B" : "Amoxycillin Capsules IP 500mg",
+  "C" : "10's",
+  "D" : 35,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 43,
+  "B" : "Amoxycillin Oral Suspension IP 125mg per 5ml",
+  "C" : "60 ml",
+  "D" : 19,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 42,
+  "B" : "Amoxycillin Trihydrate Dispersible Tablets IP 125 mg",
+  "C" : "10's",
+  "D" : 12,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1508,
+  "B" : "Ampicillin 250mg and Cloxacillin 250mg Capsules",
+  "C" : "10's",
+  "D" : 30,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1509,
+  "B" : "Ampicillin 250mg and Di-Cloxacillin 250mg Capsules",
+  "C" : "10's",
+  "D" : 45,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1263,
+  "B" : "Ampicillin Capsules IP 500 mg",
+  "C" : "10's",
+  "D" : 40,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 46,
+  "B" : "Ampicillin Injection IP 500 mg",
+  "C" : "Vial",
+  "D" : 7,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 788,
+  "B" : "Anastrozole Tablets IP 1mg",
+  "C" : "10's",
+  "D" : 78,
+  "E" : "Oncology",
+  "F" : null
+},
+{
+  "A" : 9020,
+  "B" : "Anklet (Tubular Support) (Extra Large)",
+  "C" : "Pair in Mono- Pack",
+  "D" : "Under Process",
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 9019,
+  "B" : "Anklet (Tubular Support) (Large)",
+  "C" : "Pair in Mono- Pack",
+  "D" : "Under Process",
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 9018,
+  "B" : "Anklet (Tubular Support) (Medium)",
+  "C" : "Pair in Mono- Pack",
+  "D" : "Under Process",
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 9017,
+  "B" : "Anklet (Tubular Support) (Small)",
+  "C" : "Pair in Mono- Pack",
+  "D" : "Under Process",
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 1510,
+  "B" : "Anti-D (Rho) Immunoglobulin (Monoclonal) 300 mcg",
+  "C" : "1 ml Vial",
+  "D" : "Under Process",
+  "E" : "Misc.",
+  "F" : null
+},
+{
+  "A" : 1511,
+  "B" : "Antioxidant Capsules",
+  "C" : "30's",
+  "D" : 65,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 1512,
+  "B" : "Apremilast Tablets 10mg",
+  "C" : "10's",
+  "D" : 80,
+  "E" : "Derma Care",
+  "F" : null
+},
+{
+  "A" : 1513,
+  "B" : "Apremilast Tablets 20mg",
+  "C" : "10's",
+  "D" : 100,
+  "E" : "Derma Care",
+  "F" : null
+},
+{
+  "A" : 1514,
+  "B" : "Apremilast Tablets 30 mg",
+  "C" : "10's",
+  "D" : 138,
+  "E" : "Derma Care",
+  "F" : null
+},
+{
+  "A" : 1265,
+  "B" : "Arginine Sachet 3 G",
+  "C" : "8.5 gm",
+  "D" : 22,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 1912,
+  "B" : "Aripiprazole Tablets IP 10 mg",
+  "C" : "10's",
+  "D" : 25,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1913,
+  "B" : "Aripiprazole Tablets IP 15 mg",
+  "C" : "10's",
+  "D" : 35,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1911,
+  "B" : "Aripiprazole Tablets IP 2.5 mg",
+  "C" : "10's",
+  "D" : 10,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1914,
+  "B" : "Aripiprazole Tablets IP 20 mg",
+  "C" : "10's",
+  "D" : 45,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1916,
+  "B" : "Aripiprazole Tablets IP 30 mg",
+  "C" : "10's",
+  "D" : 30,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1125,
+  "B" : "Aripiprazole Tablets IP 5mg",
+  "C" : "10's",
+  "D" : 14,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1915,
+  "B" : "Aripiprazole Tablets IP 7.5 mg",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 8153,
+  "B" : "Arm Sling Pouch (Large), Grey",
+  "C" : "1's",
+  "D" : 130,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 8154,
+  "B" : "Arm Sling Pouch (Medium), Grey",
+  "C" : "1's",
+  "D" : 130,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 2289,
+  "B" : "Armodafinil 150mg Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 2288,
+  "B" : "Armodafinil 50mg Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1890,
+  "B" : "Arteether Injection 75mg per ml",
+  "C" : "1ml Ampoule",
+  "D" : 10,
+  "E" : "Anti-Malarial",
+  "F" : null
+},
+{
+  "A" : 1222,
+  "B" : "Artemether 80mg and Lumefantrine 480mg Tablets",
+  "C" : "6's",
+  "D" : 30,
+  "E" : "Anti-Malarial",
+  "F" : null
+},
+{
+  "A" : 1891,
+  "B" : "Artesunate 100 mg and Mefloquine Hydrochloride 200 mg Tablets",
+  "C" : "6's",
+  "D" : "Under Process",
+  "E" : "Anti-Malarial",
+  "F" : null
+},
+{
+  "A" : 1892,
+  "B" : "Artesunate 200mg Tablets, Sulfadoxine 500mg and Pyrimethamine 25mg Tablets IP Combi kit",
+  "C" : "KIT",
+  "D" : 45,
+  "E" : "Anti-Malarial",
+  "F" : null
+},
+{
+  "A" : 1889,
+  "B" : "Artesunate Injection IP 120mg",
+  "C" : "Vial with Diluent",
+  "D" : 50,
+  "E" : "Anti-Malarial",
+  "F" : null
+},
+{
+  "A" : 373,
+  "B" : "Artesunate Injection IP 60 mg",
+  "C" : "1 vial",
+  "D" : 23,
+  "E" : "Anti-Malarial",
+  "F" : null
+},
+{
+  "A" : 1918,
+  "B" : "Asenapine Sublingual Tablets 10mg",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1917,
+  "B" : "Asenapine Sublingual Tablets 5mg",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 2376,
+  "B" : "Ashwagandha Tablets 250 mg",
+  "C" : "60's in Bottle",
+  "D" : 50,
+  "E" : "Ayurvedic",
+  "F" : null
+},
+{
+  "A" : 790,
+  "B" : "Aspirin Enteric Coated Tablets IP 75mg",
+  "C" : "14's",
+  "D" : 3,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 796,
+  "B" : "Aspirin Gastro- resistant 75mg and Atorvastatin 10mg Capsules IP",
+  "C" : "10's",
+  "D" : 16,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 5,
+  "B" : "Aspirin Gastro- resistant Tablets IP 150 mg",
+  "C" : "14's",
+  "D" : 5,
+  "E" : "Analgesic/Antipyreti c/Anti-Inflammatory",
+  "F" : null
+},
+{
+  "A" : 2032,
+  "B" : "Atazanavir 300mg and Ritonavir 100mg Tablets",
+  "C" : "30's Bottle",
+  "D" : 820,
+  "E" : "Anti-Viral",
+  "F" : null
+},
+{
+  "A" : 791,
+  "B" : "Atenolol 25mg and Amlodipine 5mg Tablets IP",
+  "C" : "14's",
+  "D" : 16,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 793,
+  "B" : "Atenolol Tablets IP 25mg",
+  "C" : "14's",
+  "D" : 6,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 265,
+  "B" : "Atenolol Tablets IP 50 mg",
+  "C" : "14's",
+  "D" : 6.6,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 1515,
+  "B" : "Atorvastatin 10mg and Aspirin 150mg Capsules",
+  "C" : "15's",
+  "D" : 26,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 420,
+  "B" : "Atorvastatin 10mg and Clopidogrel 75mg Capsules",
+  "C" : "10's",
+  "D" : 38.5,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 429,
+  "B" : "Atorvastatin 10mg and Fenofibrate 160mg Tablets IP",
+  "C" : "15's",
+  "D" : 30,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 2072,
+  "B" : "Atorvastatin 10mg, Aspirin 75mg and Clopidogrel 75mg Capsules",
+  "C" : "10's",
+  "D" : 38,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 2075,
+  "B" : "Atorvastatin 20mg + Aspirin 75mg and Clopidogrel 75mg Capsules",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 2073,
+  "B" : "Atorvastatin 20mg and Aspirin 150mg Capsules IP",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 2074,
+  "B" : "Atorvastatin 20mg and Aspirin 75mg Capsules IP",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 1516,
+  "B" : "Atorvastatin 20mg and Clopidogrel 75mg Capsules",
+  "C" : "10's",
+  "D" : 38.5,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 1517,
+  "B" : "Atorvastatin 20mg, Clopidogrel 75mg and Aspirin 75mg Capsules",
+  "C" : "10's",
+  "D" : 44,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 266,
+  "B" : "Atorvastatin Tablets IP 10mg",
+  "C" : "10's",
+  "D" : 8.8,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 267,
+  "B" : "Atorvastatin Tablets IP 20mg",
+  "C" : "10's",
+  "D" : 12.1,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 456,
+  "B" : "Atorvastatin Tablets IP 40 mg",
+  "C" : "10's",
+  "D" : 22,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 2076,
+  "B" : "Atorvastatin Tablets IP 5mg",
+  "C" : "10's",
+  "D" : 10,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 2148,
+  "B" : "Atorvastatin Tablets IP 80mg",
+  "C" : "10's",
+  "D" : 35,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 2052,
+  "B" : "Atorvastatin 10mg And Cholecalciferol 1000 IU Tablet",
+  "C" : "10's",
+  "D" : 20,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 797,
+  "B" : "Atracurium Besilate Injection I.P 25mg/2.5ml",
+  "C" : "2.5 ML",
+  "D" : 60,
+  "E" : "Anaesthetics",
+  "F" : null
+},
+{
+  "A" : 338,
+  "B" : "Atropine Sulphate Injection IP 0.6mg per ml",
+  "C" : "1 ml",
+  "D" : 2,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 8087,
+  "B" : "Automatic Snap-Out Folding Walking Cane Stick with Adjustable Length",
+  "C" : "1's",
+  "D" : "Under Process",
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 2068,
+  "B" : "Ayuraksha Immuno Boosting Kit",
+  "C" : "Kit",
+  "D" : 225,
+  "E" : "Ayurvedic",
+  "F" : null
+},
+{
+  "A" : 2070,
+  "B" : "Ayush 64- 40 Tab/Cap in HDPE Container",
+  "C" : "Bottle",
+  "D" : 103,
+  "E" : "Ayurvedic",
+  "F" : null
+},
+{
+  "A" : 412,
+  "B" : "Azathioprine Tablets IP 50 mg",
+  "C" : "10's",
+  "D" : 45,
+  "E" : "Immunosuppresant",
+  "F" : null
+},
+{
+  "A" : 558,
+  "B" : "Azelastine Hydrochloride 140mcg and Fluticasone Propionate 50mcg Nasal Spray",
+  "C" : "70 MD",
+  "D" : 190,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 1518,
+  "B" : "Azilsartan 40mg and Chlorthalidone 6.25mg Tablet",
+  "C" : "10's",
+  "D" : 65,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 1519,
+  "B" : "Azilsartan Medoxomil 40mg and Chlorthalidone 12 .5mg Tablets",
+  "C" : "10's",
+  "D" : 73,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 1520,
+  "B" : "Azilsartan Medoxomil Tablets 40mg",
+  "C" : "10's",
+  "D" : 64,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 49,
+  "B" : "Azithromycin 250 mg film coated Tablet IP",
+  "C" : "10's",
+  "D" : 40,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 48,
+  "B" : "Azithromycin Dispersible Tablets 100mg",
+  "C" : "10's",
+  "D" : 27,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1875,
+  "B" : "Azithromycin Eye Drops 1% w/v",
+  "C" : "3ml Drops",
+  "D" : 30,
+  "E" : "Opthalmic/Otic",
+  "F" : null
+},
+{
+  "A" : 47,
+  "B" : "Azithromycin Oral Suspension IP 100mg per 5ml",
+  "C" : "15 ml",
+  "D" : 15,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1521,
+  "B" : "Azithromycin Oral Suspension IP 200 mg",
+  "C" : "15 ml",
+  "D" : 22,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 18,
+  "B" : "Azithromycin Tablets IP 250 mg",
+  "C" : "6's",
+  "D" : 45,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 72,
+  "B" : "Azithromycin Tablets IP 500 mg",
+  "C" : "3's",
+  "D" : 42,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 8111,
+  "B" : "Baby Diaper (New Born)",
+  "C" : "5's",
+  "D" : 30,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 8110,
+  "B" : "Baby Diaper (Small)",
+  "C" : "5's",
+  "D" : 30,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 9033,
+  "B" : "Baby Diaper; Pant Style; Large (9Kg - 13Kg)",
+  "C" : "10's in Mono- Pack",
+  "D" : "Under Process",
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 9032,
+  "B" : "Baby Diaper; Pant Style; Medium (6Kg - 11Kg)",
+  "C" : "10's in Mono- Pack",
+  "D" : "Under Process",
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 9038,
+  "B" : "Baby Diaper; Pant Style; New Born (2Kg - 5Kg)",
+  "C" : "10's in Mono- Pack",
+  "D" : "Under Process",
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 9031,
+  "B" : "Baby Diaper; Pant Style; Small (3Kg - 8Kg)",
+  "C" : "10's in Mono- Pack",
+  "D" : "Under Process",
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 8146,
+  "B" : "Baby Feeding Bottle 250 ml",
+  "C" : "1's mono- carton",
+  "D" : 45,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 8155,
+  "B" : "Baby Wipes (Pack of 20 wipes)",
+  "C" : "Pack of 20 wipes",
+  "D" : 45,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 468,
+  "B" : "Bacillus Clausii Spores Suspension 2 Billion per 5ml",
+  "C" : "5 ML",
+  "D" : 15,
+  "E" : "Gastrointestinal (GIT)",
+  "F" : null
+},
+{
+  "A" : 800,
+  "B" : "Bacitracin 250 IU, Neomycin 5mg, Sulphacetamide 60mg Dusting Powder",
+  "C" : "10 gm Powder",
+  "D" : 25,
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : 1992,
+  "B" : "Bacitracin 400 IU, Neomycin 3400 IU and Polymyxin B 5000 IU Opthalmic Ointment",
+  "C" : "10 gm Tube",
+  "D" : "Under Process",
+  "E" : "Opthalmic/Otic",
+  "F" : null
+},
+{
+  "A" : 2290,
+  "B" : "Baclofen 20mg Extended Release (Gastric Retentive System) Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Analgesic/ Antipyretic/ Anti- inflammatory",
+  "F" : null
+},
+{
+  "A" : 518,
+  "B" : "Baclofen Tablets IP 10 mg",
+  "C" : "10's",
+  "D" : 11,
+  "E" : "Analgesic/Antipyreti c/Anti-Inflammatory",
+  "F" : null
+},
+{
+  "A" : 2069,
+  "B" : "Bal Raksha Kit",
+  "C" : "Kit",
+  "D" : 340,
+  "E" : "Ayurvedic",
+  "F" : null
+},
+{
+  "A" : 1523,
+  "B" : "Beclomethasone 0.025%w/v and Clotrimazole 1%w/v Lotion",
+  "C" : "30 ml",
+  "D" : 30,
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : 1522,
+  "B" : "Beclomethasone 0.025%w/w and Clotrimazole 1%w/w Cream",
+  "C" : "20 g",
+  "D" : 25,
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : 113,
+  "B" : "Beclomethasone 0.025%w/w and Neomycin 0.5%w/w Cream",
+  "C" : "15g tube",
+  "D" : 11,
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : 2057,
+  "B" : "Beclomethasone Dipropionate 0.025% w/v, Neomycin Sulphate 0.5% w/v, Clotrimazole 1% w/v and Anhydrous Lignocaine Hydrochloride 2% w/v Ear Drops",
+  "C" : "5ml Drops",
+  "D" : "Under Process",
+  "E" : "Opthalmic/Otic",
+  "F" : null
+},
+{
+  "A" : 607,
+  "B" : "Beclomethasone Dipropionate 0.025% w/w, Neomycin Sxulphate 0.5% w/w cream",
+  "C" : "15 gm",
+  "D" : 10,
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : 112,
+  "B" : "Beclomethasone Dipropionate 0.025%w/w, Clotrimazole 1%w/w and Gentamicin",
+  "C" : "15 g tubes",
+  "D" : 20,
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : null,
+  "B" : "Sulphate 0.1%w/w Cream",
+  "C" : null,
+  "D" : null,
+  "E" : null,
+  "F" : null
+},
+{
+  "A" : 2152,
+  "B" : "Beclomethasone Dipropionate 100mcg Rotacaps IP",
+  "C" : "30's in Plastic container",
+  "D" : "Under Process",
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 2151,
+  "B" : "Beclomethasone Dipropionate Inhalation IP 100mcg",
+  "C" : "200 MDI",
+  "D" : "Under Process",
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 2150,
+  "B" : "Beclomethasone Dipropionate Inhalation IP 200mcg",
+  "C" : "200 MDI",
+  "D" : 150,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 2153,
+  "B" : "Beclomethasone Dipropionate Rotacaps 200mcg",
+  "C" : "30's in Plastic container with monocart on",
+  "D" : "Under Process",
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : 2154,
+  "B" : "Beclomethasone Dipropionate Rotacaps 400mcg",
+  "C" : "30's in Plastic container with monocart on",
+  "D" : "Under Process",
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : 8156,
+  "B" : "Bed Bath Towel",
+  "C" : "1's",
+  "D" : 55,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 2277,
+  "B" : "Bempedoic Acid Tablets 180mg",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 2291,
+  "B" : "Benazepril 5mg Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 2292,
+  "B" : "Benidipine 8mg Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 2155,
+  "B" : "Benidipine Hydrochloride Tablets 4mg",
+  "C" : "10's",
+  "D" : 15,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 2077,
+  "B" : "Benzoyl Peroxide Gel IP 2.5% w/w",
+  "C" : "20gm Tube",
+  "D" : 22,
+  "E" : "DERMA",
+  "F" : null
+},
+{
+  "A" : 1524,
+  "B" : "Bepotastine Besilate Tablets 10mg",
+  "C" : "10's",
+  "D" : 65,
+  "E" : "Anti-Histaminic",
+  "F" : null
+},
+{
+  "A" : 1525,
+  "B" : "Betahistine Tablets IP 16 mg",
+  "C" : "15's",
+  "D" : 16,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1526,
+  "B" : "Betahistine Tablets IP 24 mg",
+  "C" : "15's",
+  "D" : 24,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 316,
+  "B" : "Betahistine Tablets IP 8 mg",
+  "C" : "10's",
+  "D" : 8.8,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1726,
+  "B" : "Betahistine Hydrochl oride 16 mg & Ginkgo Biloba Extract 30 mg",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1162,
+  "B" : "Betamethasone Cream IP 0.1 % w/w",
+  "C" : "20 gm",
+  "D" : 9,
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : 608,
+  "B" : "Betamethasone Dipropionate and Salicylic Acid Ointment",
+  "C" : "20 gm",
+  "D" : 17,
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : 804,
+  "B" : "Betamethasone Injection IP 4 mg per ml",
+  "C" : "1 ml",
+  "D" : 3,
+  "E" : "Steroids & Hormones",
+  "F" : null
+},
+{
+  "A" : 501,
+  "B" : "Betamethasone Sodium Phosphate Tablets IP 0.5 mg",
+  "C" : "20's",
+  "D" : 8,
+  "E" : "Steroids & Hormones",
+  "F" : null
+},
+{
+  "A" : 461,
+  "B" : "Betamethasone Valerate 0.1%w/w and Neomycin Sulfate 0.5%w/w Cream",
+  "C" : "20 gm",
+  "D" : 17.6,
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : 462,
+  "B" : "Betamethasone Valerate 0.12%w/w and Clioquinol 3%w/w Cream",
+  "C" : "30 GM",
+  "D" : "Under Process",
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : 1527,
+  "B" : "Betamethasone Valerate 0.12%w/w, Gentamicin 0.1%w/w and Miconazole Nitrate 2%w/w Cream",
+  "C" : "20 g",
+  "D" : 16,
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : 1876,
+  "B" : "Betaxolol Eye Drops IP 0.5% w/v",
+  "C" : "5ml Drops",
+  "D" : 20,
+  "E" : "Opthalmic/Otic",
+  "F" : null
+},
+{
+  "A" : 806,
+  "B" : "Bicalutamide Tablets IP 50mg",
+  "C" : "10's",
+  "D" : 137,
+  "E" : "Oncology",
+  "F" : null
+},
+{
+  "A" : 2078,
+  "B" : "Bifonazole IP 1% w/w Cream",
+  "C" : "30gm Lami Tube",
+  "D" : "Under Process",
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : 2156,
+  "B" : "Bilastine 20mg Montelukast 10mg Tablets",
+  "C" : "10's",
+  "D" : 50,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 1528,
+  "B" : "Bilastine Tablets 20 mg",
+  "C" : "10's",
+  "D" : 66,
+  "E" : "Anti-Histaminic",
+  "F" : null
+},
+{
+  "A" : 2025,
+  "B" : "Bimatoprost 0.03% w/v and Timolol 0.5% w/v Ophthalmic Solution",
+  "C" : "5ml Drops",
+  "D" : 170,
+  "E" : "Opthalmic/Otic",
+  "F" : null
+},
+{
+  "A" : 1529,
+  "B" : "Bimatoprost Ophthalmic Solution 0.01% w/v",
+  "C" : "3 ml",
+  "D" : "Under Process",
+  "E" : "Opthalmic/Otic",
+  "F" : null
+},
+{
+  "A" : 1530,
+  "B" : "Bimatoprost Ophthalmic Solution 0.03% w/v",
+  "C" : "3 ml",
+  "D" : 170,
+  "E" : "Opthalmic/Otic",
+  "F" : null
+},
+{
+  "A" : 673,
+  "B" : "Biotin Tablets 10mg",
+  "C" : "10's",
+  "D" : 34,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 1964,
+  "B" : "Biphasic Insulin Lispro Injection IP 100IU per ml (25:75)",
+  "C" : "3ml Pre- Filled Cartridge",
+  "D" : "Under Process",
+  "E" : "Anti-Diabetic",
+  "F" : null
+},
+{
+  "A" : 362,
+  "B" : "Biphasic Isophane Insulin Injection IP (50:50) 40 IU per ml",
+  "C" : "10 ML VIAL",
+  "D" : 88,
+  "E" : "Anti-Diabetic",
+  "F" : null
+},
+{
+  "A" : 807,
+  "B" : "Biphasic Isophane Insulin Injection IP 100 IU/ml (30:70 ) (30% Soluble Insulin and 70% Isophane Insu",
+  "C" : "3 ml Catridge",
+  "D" : 165,
+  "E" : "Anti-Diabetic",
+  "F" : null
+},
+{
+  "A" : 2079,
+  "B" : "Bisacodyl Suppositories IP 10mg",
+  "C" : "5's",
+  "D" : "Under Process",
+  "E" : "Gastrointestinal (GIT)",
+  "F" : null
+},
+{
+  "A" : 2253,
+  "B" : "Bisacodyl Suppository 5mg",
+  "C" : "5's",
+  "D" : "Under Process",
+  "E" : "Gastrointestinal (GIT)",
+  "F" : null
+},
+{
+  "A" : 180,
+  "B" : "Bisacodyl Tablets IP 5mg",
+  "C" : "10's",
+  "D" : 6,
+  "E" : "Gastrointestinal (GIT)",
+  "F" : null
+},
+{
+  "A" : 2080,
+  "B" : "Bisoprolol 5mg and Hydrochlorothiazide 12.5mg Tablets",
+  "C" : "10's",
+  "D" : 20,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 453,
+  "B" : "Bisoprolol 5mg and Hydrochlorothiazide 6.25mg Tablets IP",
+  "C" : "10's",
+  "D" : 15,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 1531,
+  "B" : "Bisoprolol Fumarate Tablets 2.5 mg",
+  "C" : "10's",
+  "D" : 22,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 423,
+  "B" : "Bisoprolol Tablets 5 mg",
+  "C" : "10's",
+  "D" : 33,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 152,
+  "B" : "Bleomycin Injection IP 15 IU",
+  "C" : "Vial",
+  "D" : 300,
+  "E" : "Oncology",
+  "F" : null
+},
+{
+  "A" : 6042,
+  "B" : "Blood Transfusion Set with Filter 170 Micron",
+  "C" : "1's",
+  "D" : 18,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 5071,
+  "B" : "Bone Wax, Sterilised",
+  "C" : "1's",
+  "D" : 48,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 809,
+  "B" : "Bortezomib Injection IP 3.5 mg",
+  "C" : "Vial",
+  "D" : 990,
+  "E" : "Oncology",
+  "F" : null
+},
+{
+  "A" : 2293,
+  "B" : "Bosentan 62.5mg Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 1532,
+  "B" : "Botulinum Toxin Type A 100 IU",
+  "C" : "1 Vial",
+  "D" : "Under Process",
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 8135,
+  "B" : "Breathing Exerciser (3 Chambers)",
+  "C" : "1's Monopac k",
+  "D" : 160,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 1533,
+  "B" : "Brimonidine Tartrate 0.2%w/v and Timolol Maleate 0.5%w/v Ophthalmic Solution",
+  "C" : "5 ml",
+  "D" : 50,
+  "E" : "Opthalmic/Otic",
+  "F" : null
+},
+{
+  "A" : 1534,
+  "B" : "Brimonidine Tartrate Eye drops IP 0.1% w/v",
+  "C" : "5 ml",
+  "D" : 20,
+  "E" : "Opthalmic/Otic",
+  "F" : null
+},
+{
+  "A" : 2294,
+  "B" : "Brinzolamide 10mg and Brimonidine 2mg Ophthalmic Suspension 5ml",
+  "C" : "5ml in Mono Carton",
+  "D" : "Under Process",
+  "E" : "Opthalmic/Otic",
+  "F" : null
+},
+{
+  "A" : 1877,
+  "B" : "Brinzolamide Ophthalmic Suspension IP 1% w/v",
+  "C" : "5ml Drops",
+  "D" : "Under Process",
+  "E" : "Opthalmic/Otic",
+  "F" : null
+},
+{
+  "A" : 2295,
+  "B" : "Brivaracetam 50mg Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1878,
+  "B" : "Bromfenac 0.09% w/v and Moxifloxacin 0.5% w/v Eye Drops",
+  "C" : "5ml Drops",
+  "D" : "Under Process",
+  "E" : "Opthalmic/Otic",
+  "F" : null
+},
+{
+  "A" : 811,
+  "B" : "Bromfenac Sodium Eye Drop 0.09%w/v",
+  "C" : "5 ml",
+  "D" : 66,
+  "E" : "Opthalmic/Otic",
+  "F" : null
+},
+{
+  "A" : 625,
+  "B" : "Bromhexine Hydrochloride 8mg and Phenylephrine Hydrochloride 5mg Tablets",
+  "C" : "15's",
+  "D" : 13,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 1919,
+  "B" : "Bromocriptine Mesylate Tablets IP 1.25 mg",
+  "C" : "10's",
+  "D" : 35,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 812,
+  "B" : "Bromocriptine Mesylate Tablets IP 2.5mg",
+  "C" : "10's",
+  "D" : 88,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 2157,
+  "B" : "Budesonide 400mcg Rotacaps",
+  "C" : "30's in Plastic container",
+  "D" : "Under Process",
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 236,
+  "B" : "Budesonide Inhalation IP 100mcg",
+  "C" : "200 MDI",
+  "D" : 123,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 238,
+  "B" : "Budesonide Inhalation IP 200mcg",
+  "C" : "200 md",
+  "D" : 160,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 235,
+  "B" : "Budesonide Nebuliser Suspension (1mg/2ml)",
+  "C" : "2 ml",
+  "D" : 13.2,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 2145,
+  "B" : "Budesonide Powder for Inhalation IP 400mcg (Rotacaps)",
+  "C" : "30's",
+  "D" : "Under Process",
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 352,
+  "B" : "Bupivacaine Hydrochloride Injection IP 5 mg per ml",
+  "C" : "20 ml",
+  "D" : 39,
+  "E" : "Anaesthetics",
+  "F" : null
+},
+{
+  "A" : 1920,
+  "B" : "Bupropion Prolonged- release Tablets IP 150 mg",
+  "C" : "10's",
+  "D" : 45,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 814,
+  "B" : "Cabergoline Tablets IP 0.5mg",
+  "C" : "4's",
+  "D" : 170,
+  "E" : "Gynaecology",
+  "F" : null
+},
+{
+  "A" : 2254,
+  "B" : "Caffeine Citrate Injection 20mg/ml",
+  "C" : "2ml vial",
+  "D" : "Under Process",
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 115,
+  "B" : "Calamine Lotion IP",
+  "C" : "100 ml",
+  "D" : 28,
+  "E" : "Derma Care",
+  "F" : null
+},
+{
+  "A" : 2081,
+  "B" : "Calcipotriol 0.005% and Clobetasol Propionate 0.05 % Ointment",
+  "C" : "15gm Lami-tube",
+  "D" : "Under Process",
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : 1536,
+  "B" : "Calcitriol 0.25mcg and Calcium 200mg Capsules",
+  "C" : "15's",
+  "D" : 35,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 2296,
+  "B" : "Calcitriol 0.25mcg, Calcium Carbonate 500mg, Vitamin K27 45mcg, Methylcobalamin 1500mcg, Zinc 7.5mg, Magnesium 50mg and L- Methylfolate 800mcg Capsules",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 815,
+  "B" : "Calcitriol Capsules IP 0.25mcg",
+  "C" : "10's",
+  "D" : 29.7,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 2297,
+  "B" : "Calcium (Calcium Carbonate) 1250mg, Vitamin D3 2000 IU, Mecobalamin (Vitamin B12) 1500mcg, L- Methylfolate Calcium (Vitamin B9) 1mg, Pyridoxal-5- Phosphate (Vitamin B6) 20mg Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 1540,
+  "B" : "Calcium (from Coral Grains) 500mg and Vitamin D-3 500IU Tablets",
+  "C" : "10's",
+  "D" : 30,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 1541,
+  "B" : "Calcium 1250mg, Calcitriol 0.25mcg and Vitamin K2-7 45mcg Capsules",
+  "C" : "10's",
+  "D" : 50,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 589,
+  "B" : "Calcium 500mg and Calcitriol 0.25mcg Tablets",
+  "C" : "15's",
+  "D" : 18,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 220,
+  "B" : "Calcium 500mg and Vitamin D3 250IU Tablets IP",
+  "C" : "10's",
+  "D" : 7.7,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 2003,
+  "B" : "Calcium 500mg and Vitamin D3 500IU Tablets IP",
+  "C" : "10's",
+  "D" : 8,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 816,
+  "B" : "Calcium Acetate Tablets 667mg",
+  "C" : "10's",
+  "D" : 28,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 1537,
+  "B" : "Calcium and Vitamin D3 Capsules",
+  "C" : "10's",
+  "D" : 33,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 817,
+  "B" : "Calcium Carbonate 1250mg, Vitamin D3 250IU, Magnesium Oxide 40mg, Manganese Sulphate 1.8mg and Zinc 7.5mg Tablets",
+  "C" : "10's",
+  "D" : 14.3,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 1245,
+  "B" : "CALCIUM CARBONATE 500MG +CALCITRIOL0.25+",
+  "C" : "10's",
+  "D" : 13,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : null,
+  "B" : "ZINC7.5 MG TABLETS",
+  "C" : null,
+  "D" : null,
+  "E" : null,
+  "F" : null
+},
+{
+  "A" : 2298,
+  "B" : "Calcium Citrate 1000mg, Magnesium 100mg, Zinc 4mg and Vitamin D3 200 IU Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 2083,
+  "B" : "Calcium Citrate Malate 250mg , Vitamin D3 100IU and Folic Acid 50mcg Tablets",
+  "C" : "10's",
+  "D" : 20,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 1538,
+  "B" : "Calcium Citrate Malate 250mg, Calcitriol 0.25mcg and Vitamin K2-7 50mcg Tablets",
+  "C" : "10's",
+  "D" : 40,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 2082,
+  "B" : "Calcium Dobesilate Monohydrate Capsules 500mg",
+  "C" : "10's",
+  "D" : 40,
+  "E" : "Ortho",
+  "F" : null
+},
+{
+  "A" : 1539,
+  "B" : "Calcium Gluconate 50mg and Calcium Lactobionate 87.5mg Injection",
+  "C" : "10 ml",
+  "D" : "Under Process",
+  "E" : "Ortho",
+  "F" : null
+},
+{
+  "A" : 818,
+  "B" : "Calcium Gluconate Injection IP 10 %",
+  "C" : "10 ml",
+  "D" : 5,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 2158,
+  "B" : "Calcium Pantothenate 100mg Tablets IP",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Ortho",
+  "F" : null
+},
+{
+  "A" : 1252,
+  "B" : "Calcium Phosphate 82mg, Vitamin D3 200IU and Vitamin",
+  "C" : "200 ml",
+  "D" : 36,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : null,
+  "B" : "B12 2.5mcg Suspension",
+  "C" : null,
+  "D" : null,
+  "E" : null,
+  "F" : null
+},
+{
+  "A" : 1762,
+  "B" : "Calcium Polystyrene Sulphonate Powder 15g per sachet",
+  "C" : "15 gm",
+  "D" : 44,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 1542,
+  "B" : "Calcium, Magnesium, zinc and Vitamin D-3 Oral Suspension",
+  "C" : "200 ml",
+  "D" : 38,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 581,
+  "B" : "Calcium Carbonate 500mg, Calcitriol 0.25mcg and Zinc 7.5mg Capsules",
+  "C" : "10's",
+  "D" : 19.8,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 1543,
+  "B" : "Camylofin Dihydrochloride 25mg and Paracetamol 300mg Tablets",
+  "C" : "10's",
+  "D" : 20,
+  "E" : "Analgesic/Antipyreti c/Anti-Inflammatory",
+  "F" : null
+},
+{
+  "A" : 1479,
+  "B" : "Canagliflozin Tablets 100 mg",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Anti-Diabetic",
+  "F" : null
+},
+{
+  "A" : 1435,
+  "B" : "Capecitabine Tablets IP 500mg",
+  "C" : "10's",
+  "D" : 250,
+  "E" : "Oncology",
+  "F" : null
+},
+{
+  "A" : 2084,
+  "B" : "Carbamazepine Prolonged release Tablets IP 400mg",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1152,
+  "B" : "Carbamazepine Prolonged-release Tablets IP 200mg",
+  "C" : "10's",
+  "D" : 15,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 317,
+  "B" : "Carbamazepine Tablets IP 100 mg",
+  "C" : "10's",
+  "D" : 8,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 318,
+  "B" : "Carbamazepine Tablets IP 200mg",
+  "C" : "10's",
+  "D" : 8,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 2085,
+  "B" : "Carbidopa 10mg and Levodopa 100mg Tablets IP",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 505,
+  "B" : "Carbimazole Tablets IP 10 mg",
+  "C" : "100's",
+  "D" : 77,
+  "E" : "Anti-Thyroid",
+  "F" : null
+},
+{
+  "A" : 507,
+  "B" : "Carbimazole Tablets IP 5 mg",
+  "C" : "10's",
+  "D" : 11,
+  "E" : "Anti-Thyroid",
+  "F" : null
+},
+{
+  "A" : 1668,
+  "B" : "Carbonyl Iron 100mg, Folic Acid 1.5mg and Vitamin B12 15mcg with Zinc Capsules",
+  "C" : "10's",
+  "D" : 15,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 621,
+  "B" : "Carbonyl Iron, Zinc and Folic Acid Capsules (50mg + 22.5mg + 0.5mg)",
+  "C" : "15's",
+  "D" : 12,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 1181,
+  "B" : "Carboplatin Injection 150mg",
+  "C" : "15 ml Vial",
+  "D" : 375,
+  "E" : "Oncology",
+  "F" : null
+},
+{
+  "A" : 1182,
+  "B" : "Carboplatin Injection IP 450mg",
+  "C" : "45 ml Vial",
+  "D" : 1707,
+  "E" : "Oncology",
+  "F" : null
+},
+{
+  "A" : 1999,
+  "B" : "Carboprost Injection 125mcg",
+  "C" : "0.5ml Ampoule",
+  "D" : 49,
+  "E" : "Gynaecology",
+  "F" : null
+},
+{
+  "A" : 1998,
+  "B" : "Carboprost Injection 250mcg",
+  "C" : "1ml Ampoule",
+  "D" : "Under Process",
+  "E" : "Gynaecology",
+  "F" : null
+},
+{
+  "A" : 1545,
+  "B" : "Carboxymethlycellulo se Eye drops IP 1% w/v",
+  "C" : "10 ml",
+  "D" : 30,
+  "E" : "Opthalmic/Otic",
+  "F" : null
+},
+{
+  "A" : 341,
+  "B" : "Carboxymethylcellulo se Sodium Eye Drops IP 0.5% w/v",
+  "C" : "10 ml",
+  "D" : 26.4,
+  "E" : "Opthalmic/Otic",
+  "F" : null
+},
+{
+  "A" : 2086,
+  "B" : "Carica papaya leaf Extract 1100mg, Goat Milk 250mg and Tinospora Cordifolia 250mg Extract Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 2088,
+  "B" : "Carvedilol Phosphate Extended Release Tablets 10mg",
+  "C" : "10's",
+  "D" : 17,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 2089,
+  "B" : "Carvedilol Phosphate Extended Release Tablets 20mg",
+  "C" : "10's",
+  "D" : 25,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 2090,
+  "B" : "Carvedilol Tablets IP 12.5 mg",
+  "C" : "10's",
+  "D" : 15,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 424,
+  "B" : "Carvedilol Tablets IP 3.125 mg",
+  "C" : "10's",
+  "D" : 7.7,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 821,
+  "B" : "Carvedilol Tablets IP 6.25mg",
+  "C" : "10's",
+  "D" : 7.7,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 1241,
+  "B" : "Cefaclor Dispersible Tablets 250 mg",
+  "C" : "10's",
+  "D" : 180,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 51,
+  "B" : "Cefadroxil Dispersible Tablets 250mg",
+  "C" : "10's",
+  "D" : 17,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 52,
+  "B" : "Cefadroxil Tablets IP 500 mg",
+  "C" : "10's",
+  "D" : 22,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1978,
+  "B" : "Cefdinir Capsule IP 300mg",
+  "C" : "10's",
+  "D" : 150,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1979,
+  "B" : "Cefdinir Oral Suspension IP 125mg per 5ml",
+  "C" : "30ml with Water for Reconstit ution",
+  "D" : 62,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1982,
+  "B" : "Cefixime 100Mg And Clavulanic Acid 62.5 Mg Tablets",
+  "C" : "10's",
+  "D" : 70,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 381,
+  "B" : "Cefixime 200mg and Ofloxacin 200mg Tablets",
+  "C" : "10's",
+  "D" : 46,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 385,
+  "B" : "Cefixime 200mg and Potassium Clavulanate 125mg Tablets",
+  "C" : "10's",
+  "D" : 128,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1981,
+  "B" : "Cefixime 50Mg And Clavulan ic Acid 31.5 Mg Dry syrup",
+  "C" : "30ml with Water for Reconstit ution",
+  "D" : 40,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1548,
+  "B" : "Cefixime Oral Suspension IP 100 mg per 5ml",
+  "C" : "30 ml",
+  "D" : 32,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1549,
+  "B" : "Cefixime Oral Suspension IP 25 mg per ml",
+  "C" : "10 ml",
+  "D" : 22,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 53,
+  "B" : "Cefixime Oral Suspension IP 50mg per 5ml",
+  "C" : "30 ml",
+  "D" : 20,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 54,
+  "B" : "Cefixime Tablets IP 100 mg",
+  "C" : "10's",
+  "D" : 28,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 55,
+  "B" : "Cefixime Tablets IP 200 mg",
+  "C" : "10's",
+  "D" : 53,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 56,
+  "B" : "Cefoperazone 1g and Sulbactam 1g Injection",
+  "C" : "Vial & Wfi",
+  "D" : 88,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1551,
+  "B" : "Cefoperazone 1g and Sulbactam 500mg Injection",
+  "C" : "1 Vial",
+  "D" : 65,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1552,
+  "B" : "Cefoperazone 2g and Sulbactam 1g Injection",
+  "C" : "1 Vial",
+  "D" : 115,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 57,
+  "B" : "Cefoperazone 500mg and Sulbactam 500mg Injection",
+  "C" : "Vial & Wfi",
+  "D" : 50,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 58,
+  "B" : "Cefoperazone Injection IP 1 g",
+  "C" : "Vial & Wfi",
+  "D" : 46,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 59,
+  "B" : "Cefotaxime Sodium 1g and Sulbactam Sodium 500mg Injection",
+  "C" : "Vial & Wfi",
+  "D" : 28,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 60,
+  "B" : "Cefotaxime Sodium 250mg and Sulbactam Sodium 125mg Injection",
+  "C" : "Vial & Wfi",
+  "D" : 11,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 61,
+  "B" : "Cefotaxime Sodium 500mg and Sulbactam Sodium 250mg Injection",
+  "C" : "Vial & Wfi",
+  "D" : 19,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 62,
+  "B" : "Cefotaxime Sodium Injection IP 1g",
+  "C" : "Vial & Wfi",
+  "D" : 19,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 63,
+  "B" : "Cefotaxime Sodium Injection IP 250 mg",
+  "C" : "Vial & Wfi",
+  "D" : 10,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 64,
+  "B" : "Cefotaxime Sodium Injection IP 500 mg",
+  "C" : "Vial & Wfi",
+  "D" : 12,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 2159,
+  "B" : "Cefpodoxime 200mg and Ofloxacin 200mg Tablets",
+  "C" : "10's",
+  "D" : 107,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 383,
+  "B" : "Cefpodoxime 200mg and Potassium Clavulanate 125mg Tablets",
+  "C" : "6's",
+  "D" : 72,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1553,
+  "B" : "Cefpodoxime Oral Suspension IP 100mg",
+  "C" : "30 ml",
+  "D" : 40,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 706,
+  "B" : "Cefpodoxime proxetil 50 mg DS dry syrup",
+  "C" : "30 ml",
+  "D" : 28,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 65,
+  "B" : "Cefpodoxime Proxetil Dispersible Tablets 100 mg",
+  "C" : "10's",
+  "D" : 40,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 741,
+  "B" : "Cefpodoxime Proxetil Dispersible Tablets 50 mg",
+  "C" : "10's",
+  "D" : 29,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1437,
+  "B" : "Cefpodoxime Proxetil Oral Suspension IP 50mg",
+  "C" : "30 ml",
+  "D" : 30,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 66,
+  "B" : "Cefpodoxime Tablets IP 200 mg",
+  "C" : "10's",
+  "D" : 70,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1984,
+  "B" : "Cefprozil Oral Suspension 125mg per 5ml",
+  "C" : "30ml",
+  "D" : 55,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1985,
+  "B" : "Cefprozil Oral Suspension 250mg per 5ml",
+  "C" : "30ml",
+  "D" : 100,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1987,
+  "B" : "Cefprozil Tablet 250 mg",
+  "C" : "10's",
+  "D" : 150,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1986,
+  "B" : "Cefprozil Tablet 500 mg",
+  "C" : "6's",
+  "D" : 180,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1990,
+  "B" : "Ceftazidime 1000 mg And Tazobactum 125 mg Injection",
+  "C" : "Vial with WFI",
+  "D" : 90,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1989,
+  "B" : "Ceftazidime 250mg And Tazobactum 31.25mg Injection",
+  "C" : "Vial & Wfi",
+  "D" : 35,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1988,
+  "B" : "Ceftazidime for Injection IP 1000mg",
+  "C" : "Vial with WFI",
+  "D" : "Under Process",
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 67,
+  "B" : "Ceftazidime Injection IP 1g",
+  "C" : "Vial & Wfi",
+  "D" : 80,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 68,
+  "B" : "Ceftazidime Injection IP 250mg",
+  "C" : "Vial & Wfi",
+  "D" : 30,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 69,
+  "B" : "Ceftazidime Injection IP 500mg",
+  "C" : "Vial & Wfi",
+  "D" : 50,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 70,
+  "B" : "Ceftriaxone 1g and Sulbactam 500mg Injection",
+  "C" : "Vial & Wfi",
+  "D" : 48,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 71,
+  "B" : "Ceftriaxone 1g and Tazobactam 125mg Injection",
+  "C" : "Vial & Wfi",
+  "D" : 48,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 73,
+  "B" : "Ceftriaxone 250 mg + Sulbactum 125 mg Injection with WFI",
+  "C" : "Vial & Wfi",
+  "D" : 17,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1554,
+  "B" : "Ceftriaxone 250mg and Tazobactam 31.2 5mg Injection",
+  "C" : "1 Vial & wfi",
+  "D" : 24,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 74,
+  "B" : "Ceftriaxone 500mg and Sulbactam 250mg Injection",
+  "C" : "Vial & Wfi",
+  "D" : 35,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 75,
+  "B" : "Ceftriaxone Injection IP 1 g",
+  "C" : "Vial & Wfi",
+  "D" : 28,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1555,
+  "B" : "Ceftriaxone Injection IP 2 g",
+  "C" : "1 Vial & wfi",
+  "D" : 60,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 76,
+  "B" : "Ceftriaxone Injection IP 250 mg",
+  "C" : "Vial & Wfi",
+  "D" : 13,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 77,
+  "B" : "Ceftriaxone injection IP 500 mg",
+  "C" : "Vial & Wfi",
+  "D" : 24,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 395,
+  "B" : "Cefuroxime Axetil 500mg and Potassium Clavulanate 125mg Tablets IP",
+  "C" : "6's",
+  "D" : 109,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 669,
+  "B" : "Cefuroxime Axetil Oral Suspension 125mg per 5ml",
+  "C" : "30 ML",
+  "D" : 66,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 739,
+  "B" : "Cefuroxime Axetil Tablets IP 125mg",
+  "C" : "6's",
+  "D" : 35,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 78,
+  "B" : "Cefuroxime Axetil Tablets IP 250 mg",
+  "C" : "10's",
+  "D" : 75,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 79,
+  "B" : "Cefuroxime Axetil Tablets IP 500 mg",
+  "C" : "10's",
+  "D" : 142,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 757,
+  "B" : "Cefuroxime Injection IP 1500mg",
+  "C" : "Vial & Wfi",
+  "D" : 70,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 81,
+  "B" : "Cephalexin Capsules IP 250mg",
+  "C" : "10's",
+  "D" : 33,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 82,
+  "B" : "Cephalexin Capsules IP 500mg",
+  "C" : "10's",
+  "D" : 50,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 80,
+  "B" : "Cephalexin Dispersible Tablets 125mg",
+  "C" : "10's",
+  "D" : 21,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 704,
+  "B" : "Cephalexin Dry Syrup 125mg per 5ml",
+  "C" : "30 ml",
+  "D" : 19,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1556,
+  "B" : "Cephalexin Extended Release Tablets 750mg",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 2239,
+  "B" : "Cereal Based Foods Products (for Baby above 6 months)",
+  "C" : "300g Mono Carton",
+  "D" : "Under Process",
+  "E" : "Nutraceuticals",
+  "F" : null
+},
+{
+  "A" : 1557,
+  "B" : "Cerebroprotein Hydrolysate Injection 30mg",
+  "C" : "1 vial",
+  "D" : 200,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1558,
+  "B" : "Cerebroprotein Hydrolysate Injection 60mg",
+  "C" : "1 vial",
+  "D" : 250,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 8102,
+  "B" : "Cervical Collar (Extra Large)",
+  "C" : "1's",
+  "D" : 120,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 8101,
+  "B" : "Cervical Collar (Large)",
+  "C" : "1's",
+  "D" : 120,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 8100,
+  "B" : "Cervical Collar (Medium)",
+  "C" : "1's",
+  "D" : 120,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 8099,
+  "B" : "Cervical Collar (Small)",
+  "C" : "1's",
+  "D" : 120,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 8117,
+  "B" : "Cervical Pillow (polyester, PU foam)",
+  "C" : "1's mono- carton",
+  "D" : 500,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 603,
+  "B" : "Cetirizine Dihydrochloride 5mg, Phenylephrine Hydrochloride 10mg and Paracetamol 325mg Tablets",
+  "C" : "10's",
+  "D" : 18.7,
+  "E" : "Analgesic/Antipyreti c/Anti-Inflammatory",
+  "F" : null
+},
+{
+  "A" : 239,
+  "B" : "Cetirizine Syrup IP 5 mg per 5 ml",
+  "C" : "60 ml",
+  "D" : 13,
+  "E" : "Anti-Histaminic",
+  "F" : null
+},
+{
+  "A" : 1280,
+  "B" : "Cetirizine Tablet 10 mg",
+  "C" : "10's",
+  "D" : 8,
+  "E" : "Anti-Histaminic",
+  "F" : null
+},
+{
+  "A" : 240,
+  "B" : "Cetrizine Hydrochloride Tablets IP 10mg",
+  "C" : "10's",
+  "D" : 5.5,
+  "E" : "Anti-Histaminic",
+  "F" : null
+},
+{
+  "A" : 1879,
+  "B" : "Chloramphenicol 0.5% w/v and",
+  "C" : "5ml Drops",
+  "D" : 15,
+  "E" : "Opthalmic/Otic",
+  "F" : null
+},
+{
+  "A" : null,
+  "B" : "Dexamethasone 0.1% w/v Eye/Ear Drops",
+  "C" : null,
+  "D" : null,
+  "E" : null,
+  "F" : null
+},
+{
+  "A" : 1559,
+  "B" : "Chloramphenicol Capsules IP 250 mg",
+  "C" : "10's",
+  "D" : 40,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1560,
+  "B" : "Chloramphenicol Capsules IP 500 mg",
+  "C" : "10's",
+  "D" : 65,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 829,
+  "B" : "Chloramphenicol Eye Ointment IP 1%W/W",
+  "C" : "5 gm",
+  "D" : 17,
+  "E" : "Opthalmic/Otic",
+  "F" : null
+},
+{
+  "A" : 830,
+  "B" : "Chlordiazepoxide 10mg and Trifluoperazine 1mg Tablets",
+  "C" : "10's",
+  "D" : 15,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1562,
+  "B" : "Chlordiazepoxide 5mg and Amitriptyline Hydrochloride 12.5mg Tablets",
+  "C" : "10's",
+  "D" : 9,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 477,
+  "B" : "Chlordiazepoxide 5mg and Clidinium Bromide 2.5mg Tablets",
+  "C" : "10's",
+  "D" : 9,
+  "E" : "Gastrointestinal (GIT)",
+  "F" : null
+},
+{
+  "A" : 1281,
+  "B" : "Chlordiazepoxide Tablets IP 10 mg",
+  "C" : "10's",
+  "D" : 21,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1921,
+  "B" : "Chlordiazepoxide Tablets IP 25 mg",
+  "C" : "10's",
+  "D" : 25,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 8158,
+  "B" : "Chlorhexidine Gauze Dressing B.P 10cmx10cm (Sterile)",
+  "C" : "1 pc in a pack",
+  "D" : 12,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 658,
+  "B" : "Chlorhexidine Gluconate 0.3%v/v and Cetrimide 0.6%w/v Antiseptic Liquid",
+  "C" : "100 ML",
+  "D" : 12,
+  "E" : "Disinfectants",
+  "F" : null
+},
+{
+  "A" : 659,
+  "B" : "Chlorhexidine Gluconate and Cetrimide Solution (0.3% w/v and 0.6% w/v)",
+  "C" : "200 ml",
+  "D" : 26,
+  "E" : "Disinfectants",
+  "F" : null
+},
+{
+  "A" : 130,
+  "B" : "Chlorhexidine Gluconate and Cetrimide Solution (1.5% w/v and 3% w/v)",
+  "C" : "100 ml Bottle",
+  "D" : 11,
+  "E" : "Disinfectants",
+  "F" : null
+},
+{
+  "A" : 1563,
+  "B" : "Chlorhexidine Gluconate Solution IP 2.5% v/v Handrub",
+  "C" : "100 ml",
+  "D" : 40,
+  "E" : "Disinfectants",
+  "F" : null
+},
+{
+  "A" : 117,
+  "B" : "Chlorhexidine Mouthwash IP 0.2 % w/v",
+  "C" : "100 ml",
+  "D" : 23,
+  "E" : "Stomatologicals",
+  "F" : null
+},
+{
+  "A" : 305,
+  "B" : "Chloroquine Phosphate Tablets IP 250 mg",
+  "C" : "10's",
+  "D" : 5,
+  "E" : "Anti-Malarial",
+  "F" : null
+},
+{
+  "A" : 1925,
+  "B" : "Chlorpromazine 50mg and Trihexyphenidyl 2mg Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1926,
+  "B" : "Chlorpromazine 50mg, Trihexyphenidyl 2mg and Trifluoperazine 5mg Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1922,
+  "B" : "Chlorpromazine Tablets IP 100 mg",
+  "C" : "10's",
+  "D" : 6,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1924,
+  "B" : "Chlorpromazine Tablets IP 25 mg",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1923,
+  "B" : "Chlorpromazine Tablets IP 50 mg",
+  "C" : "10's",
+  "D" : 5,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 832,
+  "B" : "Chlorthalidone Tablets IP 12.5mg",
+  "C" : "10's",
+  "D" : 14.3,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 1283,
+  "B" : "Chlorthalidone Tablets IP 6.25 mg",
+  "C" : "10's",
+  "D" : 18.7,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 6,
+  "B" : "Chlorzoxazone 500mg, Diclofenac 50mg and Paracetamol 325mg Tablets",
+  "C" : "10's",
+  "D" : 25,
+  "E" : "Analgesic/Antipyreti c/Anti-Inflammatory",
+  "F" : null
+},
+{
+  "A" : 834,
+  "B" : "Cholecalciferol (Vitamin D3) Drops 400 IU per ml",
+  "C" : "15 ml",
+  "D" : 20,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 833,
+  "B" : "Cholecalciferol (Vitamin D3) Drops 800 IU per ml",
+  "C" : "15 ml",
+  "D" : 27,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 1564,
+  "B" : "Cholecalciferol Chewable Tablets 60000 IU",
+  "C" : "4'S",
+  "D" : 16.5,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 585,
+  "B" : "Cholecalciferol Granules 60000 IU per gm",
+  "C" : "1 Sachet",
+  "D" : 9.9,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 2047,
+  "B" : "Cholecalciferol Soft Gelatin Capsule 60000 IU",
+  "C" : "4's",
+  "D" : 20,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 8002,
+  "B" : "Chromic Suture (1/2 Cir Rb Needle 20mm, Length 76 cm)",
+  "C" : "1's",
+  "D" : 80,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 8003,
+  "B" : "Chromic Suture (1/2 Cir Rb Needle 30mm, Length 76 cm)",
+  "C" : "1's",
+  "D" : 45,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 8005,
+  "B" : "Chromic Suture (1/2 Cir Rb Needle 40mm, Length 76 cm)",
+  "C" : "1's",
+  "D" : 45,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 8007,
+  "B" : "Chromic Suture (1/2 Cir Rb Needle 45mm, Length 100 cm)",
+  "C" : "1's",
+  "D" : 50,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 8006,
+  "B" : "Chromic Suture (3/8 Cir Rb Needle 30mm, Length 76 cm)",
+  "C" : "1's",
+  "D" : 45,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 8001,
+  "B" : "Chromic Suture (3/8 Cir Rb Needle 40mm, Length 76 cm)",
+  "C" : "1's",
+  "D" : 45,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 2381,
+  "B" : "Chyawanprash Special 1Kg Jar",
+  "C" : "1kg Jar",
+  "D" : 226,
+  "E" : "Ayurvedic",
+  "F" : null
+},
+{
+  "A" : 2380,
+  "B" : "Chyawanprash Special 500g Jar",
+  "C" : "500g Jar",
+  "D" : 125,
+  "E" : "Ayurvedic",
+  "F" : null
+},
+{
+  "A" : 514,
+  "B" : "Chymotrypsin and Trypsin (1:6 ) Tablets 100K AU",
+  "C" : "20's",
+  "D" : 50,
+  "E" : "Enzyme Preparation",
+  "F" : null
+},
+{
+  "A" : 2091,
+  "B" : "Cilnidipine 10mg and Chlorthalidone 12.5mg Tablets",
+  "C" : "10's",
+  "D" : 20,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 2368,
+  "B" : "Cilnidipine 10mg and Olmesartan Medoxomil 20mg Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 2369,
+  "B" : "Cilnidipine 10mg and Olmesartan Medoxomil 40mg Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 1284,
+  "B" : "Cilnidipine 10mg and Telmisartan 40mg Tablets",
+  "C" : "10's",
+  "D" : 24.2,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 1565,
+  "B" : "Cilnidipine Tablets IP 10 mg",
+  "C" : "10's",
+  "D" : 16.5,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 837,
+  "B" : "Cilnidipine Tablets IP 20mg",
+  "C" : "10's",
+  "D" : 19.8,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 1566,
+  "B" : "Cilnidipine Tablets IP 5 mg",
+  "C" : "10's",
+  "D" : 11,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 838,
+  "B" : "Cilostazol Tablets IP 50mg",
+  "C" : "10's",
+  "D" : 66,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 1285,
+  "B" : "Cinitapride Tablets 1 mg",
+  "C" : "10's",
+  "D" : 30,
+  "E" : "Gastrointestinal (GIT)",
+  "F" : null
+},
+{
+  "A" : 1927,
+  "B" : "Cinnarizine 20mg and Dimenhydrinate 40mg Tablets",
+  "C" : "10's",
+  "D" : 20,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 2094,
+  "B" : "Cinnarizine 20mg and Domperidone 15mg Tablet",
+  "C" : "10's",
+  "D" : 10,
+  "E" : "Antiemetic and Prokinetic",
+  "F" : null
+},
+{
+  "A" : 1112,
+  "B" : "Cinnarizine Tablets IP 25mg",
+  "C" : "10's",
+  "D" : 7.7,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1568,
+  "B" : "Cinnarizine Tablets IP 75mg",
+  "C" : "10's",
+  "D" : 15,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1569,
+  "B" : "Ciprofloxacin 0.3% w/v and Dexamethasone 0.1% w/v Eye/Ear Drops",
+  "C" : "10 ml",
+  "D" : 11,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 83,
+  "B" : "Ciprofloxacin 250mg and Tinidazole 300mg Tablets",
+  "C" : "10's",
+  "D" : 28,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 84,
+  "B" : "Ciprofloxacin 500mg and Tinidazole 600mg Tablets",
+  "C" : "10's",
+  "D" : 39,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 344,
+  "B" : "Ciprofloxacin Eye Drops IP 0.3% w/v",
+  "C" : "5 ml",
+  "D" : 7,
+  "E" : "Opthalmic/Otic",
+  "F" : null
+},
+{
+  "A" : 85,
+  "B" : "Ciprofloxacin Hydrochloride Tablets IP 250 mg",
+  "C" : "10's",
+  "D" : 11,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 86,
+  "B" : "Ciprofloxacin Hydrochloride Tablets IP 500 mg",
+  "C" : "10's",
+  "D" : 20,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 165,
+  "B" : "Ciprofloxacin Infusion IP 200mg (2mg per ml)",
+  "C" : "100 ml",
+  "D" : 12,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 154,
+  "B" : "Cisplatin Injection BP 50mg/50ml",
+  "C" : "Vial",
+  "D" : 156,
+  "E" : "Oncology",
+  "F" : null
+},
+{
+  "A" : 153,
+  "B" : "Cisplatin Injection IP 10 mg per10ml",
+  "C" : "Vial",
+  "D" : 35,
+  "E" : "Oncology",
+  "F" : null
+},
+{
+  "A" : 1928,
+  "B" : "Citalopram Tablets IP 20mg",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1929,
+  "B" : "Citalopram Tablets IP 40mg",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1570,
+  "B" : "Citicoline 500mg and Piracetam 800mg Tablets",
+  "C" : "10's",
+  "D" : 220,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1930,
+  "B" : "Citicoline Injection IP 250mg per ml",
+  "C" : "2ml Ampoule",
+  "D" : 40,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 840,
+  "B" : "Citicoline Tablets IP 500mg",
+  "C" : "10's",
+  "D" : 221.1,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1857,
+  "B" : "Citric Acid 334mg and Potassium Citrate 1100mg Syrup per 5ml",
+  "C" : "200ml Bottle",
+  "D" : 50,
+  "E" : "Urology",
+  "F" : null
+},
+{
+  "A" : 740,
+  "B" : "Clarithromycin Tablets IP 250 mg",
+  "C" : "10's",
+  "D" : 82,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 380,
+  "B" : "Clarithromycin Tablets IP 500 mg",
+  "C" : "4's",
+  "D" : 72,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1571,
+  "B" : "Clidinium Bromide 2.5mg, Chlordiazepoxide 5mg and Dicyclomine",
+  "C" : "10's",
+  "D" : 14,
+  "E" : "Gastrointestinal (GIT)",
+  "F" : null
+},
+{
+  "A" : null,
+  "B" : "Hydrochloride 10mg Tablets",
+  "C" : null,
+  "D" : null,
+  "E" : null,
+  "F" : null
+},
+{
+  "A" : 1572,
+  "B" : "Clindamycin 1%w/w and Nicotinamide 4%w/w Gel",
+  "C" : "15 g",
+  "D" : 20,
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : 2160,
+  "B" : "Clindamycin 100mg, Clotrimazole 100mg and Tinidazole 100mg Soft Gelatin Capsule (For Vaginal Use)",
+  "C" : "7's",
+  "D" : 70,
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : 377,
+  "B" : "Clindamycin Capsules IP 300 mg",
+  "C" : "10's",
+  "D" : 90,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 403,
+  "B" : "Clindamycin Injection IP 300mg per 2ml",
+  "C" : "2 ML",
+  "D" : 55,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1110,
+  "B" : "Clobazam Tablet IP 5mg",
+  "C" : "10's",
+  "D" : 15,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1574,
+  "B" : "Clobazam Tablets IP 10 mg",
+  "C" : "15's",
+  "D" : 32,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1575,
+  "B" : "Clobetasol Propionate 0.05%w/w and Gentamicin 0.1%w/w Cream",
+  "C" : "25 g",
+  "D" : 13,
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : 1576,
+  "B" : "Clobetasol Propionate 0.05%w/w and Miconazole Nitrate 2%w/w Cream",
+  "C" : "15 g",
+  "D" : 28,
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : 1577,
+  "B" : "Clobetasol Propionate 0.05%w/w and",
+  "C" : "10 g",
+  "D" : 15,
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : null,
+  "B" : "Neomycin Sulphate 0.5%w/w Cream",
+  "C" : null,
+  "D" : null,
+  "E" : null,
+  "F" : null
+},
+{
+  "A" : 1578,
+  "B" : "Clobetasol Propionate 0.05%w/w and Salicylic Acid 3%w/w Ointment",
+  "C" : "20g",
+  "D" : 30,
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : 1579,
+  "B" : "Clobetasol Propionate 0.05%w/w and Salicylic Acid 6%w/w Ointment",
+  "C" : "20g",
+  "D" : 35,
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : 1580,
+  "B" : "Clobetasol Propionate 0.05%w/w, Gentamicin 0.1%w/w and Miconazole Nitrate 2%w/w Cream",
+  "C" : "15 g",
+  "D" : 22,
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : 634,
+  "B" : "Clobetasol Propionate 0.05%w/w, Neomycin 0.50%w/w, Miconazole 2%w/w and Chlorocresol 0.10%w/w Cream",
+  "C" : "20 gms.",
+  "D" : 28.6,
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : 118,
+  "B" : "Clobetasol Propionate Cream IP 0.05 % w/w",
+  "C" : "15 gm Tube",
+  "D" : 15,
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : 337,
+  "B" : "Clomifene Citrate Tablets IP 50 mg",
+  "C" : "10's",
+  "D" : 22,
+  "E" : "Gynaecology",
+  "F" : null
+},
+{
+  "A" : 1123,
+  "B" : "Clomipramine Hydrochloride Sustained release Tablets 75mg",
+  "C" : "10's",
+  "D" : 55,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1932,
+  "B" : "Clomipramine Hydrochloride Tablets 10mg",
+  "C" : "10's",
+  "D" : 12,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1933,
+  "B" : "Clomipramine Hydrochloride Tablets 25mg",
+  "C" : "10's",
+  "D" : 20,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1934,
+  "B" : "Clomipramine Hydrochloride Tablets 50mg",
+  "C" : "10's",
+  "D" : 35,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1931,
+  "B" : "Clonazepam Mouth Dissolving Tablets 0.25 mg",
+  "C" : "10's",
+  "D" : 10,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 2042,
+  "B" : "Clonazepam Mouth Dissolving Tablets 0.25mg",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 319,
+  "B" : "Clonazepam Tablets IP 0.5 mg",
+  "C" : "10's",
+  "D" : 5.5,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 844,
+  "B" : "Clonazepam Tablets IP 1mg",
+  "C" : "10's",
+  "D" : 8.8,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 268,
+  "B" : "Clonidine Tablets IP 100 mcg",
+  "C" : "10's",
+  "D" : 11,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 1581,
+  "B" : "Clopidogrel 75mg and Aspirin 150mg Capsules",
+  "C" : "15's",
+  "D" : 62,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 270,
+  "B" : "Clopidogrel 75mg and Aspirin 75mg Tablets IP",
+  "C" : "10's",
+  "D" : 21,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 269,
+  "B" : "Clopidogrel Tablets IP 75mg",
+  "C" : "10's",
+  "D" : 18.7,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 2095,
+  "B" : "Clotrimazole 1% w/v and Lignocaine Hydrochloride 2% w/v Ear Drops",
+  "C" : "10ml Drops",
+  "D" : "Under Process",
+  "E" : "Opthalmic/Otic",
+  "F" : null
+},
+{
+  "A" : 1582,
+  "B" : "Clotrimazole 1% w/v and Selenium Sulfide 2.5% w/v Suspension",
+  "C" : "75 ml",
+  "D" : 120,
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : 753,
+  "B" : "Clotrimazole 1%w/v and Beclometasone Dipropionate 0.025%w/v Lotion",
+  "C" : "15 ml",
+  "D" : 28,
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : 754,
+  "B" : "Clotrimazole 1%w/w and Beclomethasone Dipropionate 0.025%w/w Cream",
+  "C" : "15 gm",
+  "D" : 13.2,
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : 87,
+  "B" : "Clotrimazole Cream IP 1% w/w",
+  "C" : "15 g tubes",
+  "D" : 15.4,
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : 1583,
+  "B" : "Clotrimazole Mouth Paint 1% w/v",
+  "C" : "25 ml",
+  "D" : 20,
+  "E" : "Stomatologicals",
+  "F" : null
+},
+{
+  "A" : 752,
+  "B" : "Clotrimazole Powder 1%",
+  "C" : "100 gm Powder",
+  "D" : 60.5,
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : 689,
+  "B" : "Clotrimazole Vaginal Tablets IP 100mg",
+  "C" : "10's",
+  "D" : 15,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1937,
+  "B" : "Clozapine Tablets IP 100 mg",
+  "C" : "10's",
+  "D" : 40,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1935,
+  "B" : "Clozapine Tablets IP 25 mg",
+  "C" : "10's",
+  "D" : 15,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1936,
+  "B" : "Clozapine Tablets IP 50 mg",
+  "C" : "10's",
+  "D" : 25,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 90,
+  "B" : "Co-trimoxazole (Sulphamethoxazole 100mg and Trimethoprim 20mg) Tablets IP",
+  "C" : "10's",
+  "D" : 2,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 88,
+  "B" : "Co-trimoxazole (Sulphamethoxazole 200mg and Trimethoprim 40mg per 5ml) Oral Suspension IP",
+  "C" : "50 ml",
+  "D" : 15,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 89,
+  "B" : "Co-trimoxazole (Sulphamethoxazole 800mg and Trimethoprim 160mg) Tablets IP",
+  "C" : "10's",
+  "D" : 11,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 2096,
+  "B" : "Cod liver oil 300MG, Evening primrose oil 300MG, Omega-3 fatty acid 90MG and Vitamin E 10MG Soft Gelatin Capsules",
+  "C" : "10's",
+  "D" : 45,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 1584,
+  "B" : "Coenzyme Q10 (Ubidecarenone) and L-Carnitine Tablets",
+  "C" : "10's",
+  "D" : 100,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 1544,
+  "B" : "Coenzyme Q10 100mg, Lycopene 4000mcg, Selenium 70mcg and Omega-3 Fatty Acids (EPA",
+  "C" : "10's",
+  "D" : 150,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : null,
+  "B" : "90mg and DHA 60mg) Capsules",
+  "C" : null,
+  "D" : null,
+  "E" : null,
+  "F" : null
+},
+{
+  "A" : 2255,
+  "B" : "Colchicine Tablets 0.5mg",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Ortho",
+  "F" : null
+},
+{
+  "A" : 1585,
+  "B" : "Colistin (Colistimethate Sodium) Injection IP 1 Million IU",
+  "C" : "Vial (10 ml)",
+  "D" : 180,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1586,
+  "B" : "Colistin (Colistimethate Sodium) Injection IP 4.5 Million IU",
+  "C" : "Vial (10 ml)",
+  "D" : 450,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1587,
+  "B" : "Colistin Sulphate Oral Suspension IP 12.5 mg per 5ml",
+  "C" : "30 ml",
+  "D" : "Under Process",
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1588,
+  "B" : "Collagen Peptide(Type I) 40mg, Sodium Hyaluronate 30mg, Chondroitin Sulfate 200mg and Vitamin C 35mg Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 2146,
+  "B" : "Combikit of Eplerenone Tablets 25mg and Torsemide Tablets IP 10mg",
+  "C" : "Combikit of 20 Tablets in Mono Carton",
+  "D" : "Under Process",
+  "E" : "Diuretic",
+  "F" : null
+},
+{
+  "A" : 2315,
+  "B" : "Combikit of Fluconazole Tablets IP 150mg, Azithromycin Tablets IP 1000mg and Secnidazole Tablets IP 1000mg",
+  "C" : "1's in Mono Carton",
+  "D" : "Under Process",
+  "E" : "Gynaecology",
+  "F" : null
+},
+{
+  "A" : 9025,
+  "B" : "Combined Dressing Pad (10X10Cm)",
+  "C" : "Five in Mono- Pack X 100",
+  "D" : "Under Process",
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 9026,
+  "B" : "Combined Dressing Pad (10X20Cm)",
+  "C" : "Five in Mono- Pack",
+  "D" : "Under Process",
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 2097,
+  "B" : "Combipack of Clarithromycin 500mg Tablets IP, Esomeprazole 40mg Tablets IP (Gastro resistant) and Amoxycillin 750mg Tablets IP",
+  "C" : "Combipac k of 6 Tablets in Mono Carton",
+  "D" : "Under Process",
+  "E" : "Gastrointestinal (GIT)",
+  "F" : null
+},
+{
+  "A" : 1589,
+  "B" : "Combipack of Clarithromycin 500mg Tablets, Pantoprazole 40mg Tablets and Amoxycillin 750mg Tablets",
+  "C" : "6's",
+  "D" : "Under Process",
+  "E" : "Gastrointestinal (GIT)",
+  "F" : null
+},
+{
+  "A" : 5067,
+  "B" : "Corrugated Drainage Sheet",
+  "C" : "1's",
+  "D" : 26,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 8194,
+  "B" : "Cotton Balls",
+  "C" : "Pack of 100 in a Zip Lock Bag",
+  "D" : "Under Process",
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 5007,
+  "B" : "Cotton Bandage 10 cm x 4 M",
+  "C" : "1's",
+  "D" : 20,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 5006,
+  "B" : "Cotton Bandage 7.5 cm x 4 M",
+  "C" : "1's",
+  "D" : 15,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 5008,
+  "B" : "Cotton Bandages(Non Sterile) 15 cm x 4 M",
+  "C" : "1's",
+  "D" : 30,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 8195,
+  "B" : "Cotton Pads (Round)",
+  "C" : "Pack of 50 in a Zip Lock Bag",
+  "D" : "Under Process",
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 243,
+  "B" : "Cough Syrup Diphen.14 mg. + A.Chl.135 mg. + Sod.Cit.57 mg. + Menthol IP 0.9 mg.",
+  "C" : "110 ml",
+  "D" : 15.7,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 8193,
+  "B" : "Covid 19 Self-Testing Kit (ICMR Approved)",
+  "C" : "One in Monopac k",
+  "D" : 210,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 5005,
+  "B" : "Crepe Bandage B. P.10 cm x 4 M",
+  "C" : "1's",
+  "D" : 36,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 5004,
+  "B" : "Crepe Bandage B.P. 15 cm x 4 M",
+  "C" : "1's",
+  "D" : 55,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 5073,
+  "B" : "Crepe Bandage B.P. 6 cm x 4 M",
+  "C" : "1's",
+  "D" : 24,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 1183,
+  "B" : "Cyclophosphamide 500 mg injection",
+  "C" : "VIAL",
+  "D" : 35,
+  "E" : "Oncology",
+  "F" : null
+},
+{
+  "A" : 850,
+  "B" : "Cyclosporin capsules IP 50mg",
+  "C" : "5's",
+  "D" : 120,
+  "E" : "Immunosuppresant",
+  "F" : null
+},
+{
+  "A" : 1186,
+  "B" : "Cyclosporin Capulses IP 25mg",
+  "C" : "5's",
+  "D" : 72,
+  "E" : "Immunosuppresant",
+  "F" : null
+},
+{
+  "A" : 1187,
+  "B" : "Cyclosporine Capsules IP 100 mg",
+  "C" : "5's",
+  "D" : 230,
+  "E" : "Immunosuppresant",
+  "F" : null
+},
+{
+  "A" : 611,
+  "B" : "Cyproheptadine Hydrochloride Syrup IP 2mg",
+  "C" : "200 ml",
+  "D" : 30,
+  "E" : "Gastrointestinal (GIT)",
+  "F" : null
+},
+{
+  "A" : 583,
+  "B" : "Cyproheptadine Tablets IP 4 mg",
+  "C" : "10's",
+  "D" : 4,
+  "E" : "Gastrointestinal (GIT)",
+  "F" : null
+},
+{
+  "A" : 1590,
+  "B" : "Dabigatran Etexilate Mesilate Capsules 110 mg",
+  "C" : "10's",
+  "D" : 137.5,
+  "E" : "Anticoagulant",
+  "F" : null
+},
+{
+  "A" : 1591,
+  "B" : "Dabigatran Etexilate Mesilate Capsules 150 mg",
+  "C" : "10's",
+  "D" : 176,
+  "E" : "Anticoagulant",
+  "F" : null
+},
+{
+  "A" : 2098,
+  "B" : "Dabigatran Etexilate Mesilate Capsules 75 mg",
+  "C" : "10's",
+  "D" : 131,
+  "E" : "Anticoagulant",
+  "F" : null
+},
+{
+  "A" : 851,
+  "B" : "Dacarbazine Injection 200mg",
+  "C" : "VIAL",
+  "D" : 188,
+  "E" : "Oncology",
+  "F" : null
+},
+{
+  "A" : 2014,
+  "B" : "Daclatasvir Tablets 60 mg",
+  "C" : "28's Bottle",
+  "D" : 930,
+  "E" : "Hepato-Protective",
+  "F" : null
+},
+{
+  "A" : 2273,
+  "B" : "Dapagliflozin 10mg and Sitagliptin 100mg Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Anti-Diabetic",
+  "F" : null
+},
+{
+  "A" : 2272,
+  "B" : "Dapagliflozin 5mg and Sitagliptin 50mg Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Anti-Diabetic",
+  "F" : null
+},
+{
+  "A" : 1592,
+  "B" : "Dapagliflozin Tablets 10 mg",
+  "C" : "10's",
+  "D" : 32,
+  "E" : "Anti-Diabetic",
+  "F" : null
+},
+{
+  "A" : 2101,
+  "B" : "Dapagliflozin Tablets 5mg",
+  "C" : "10's",
+  "D" : 25,
+  "E" : "Anti-Diabetic",
+  "F" : null
+},
+{
+  "A" : 2301,
+  "B" : "Dapoxetine 30mg Tablets",
+  "C" : "4's",
+  "D" : "Under Process",
+  "E" : "Urology",
+  "F" : null
+},
+{
+  "A" : 1858,
+  "B" : "Darifenacin Prolonged Release Tablets IP 7.5mg",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Urology",
+  "F" : null
+},
+{
+  "A" : 2302,
+  "B" : "Dasatinib 50mg Tablets",
+  "C" : "60's Bottle",
+  "D" : "Under Process",
+  "E" : "Oncology",
+  "F" : null
+},
+{
+  "A" : 853,
+  "B" : "Daunorubicin HCl Injection 20mg",
+  "C" : "vial",
+  "D" : 204,
+  "E" : "Oncology",
+  "F" : null
+},
+{
+  "A" : 2303,
+  "B" : "Deflazacort 30mg and Tamsulosin 0.4mg Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Urology",
+  "F" : null
+},
+{
+  "A" : 502,
+  "B" : "Deflazacort Tablets 6 mg",
+  "C" : "6's",
+  "D" : 14.3,
+  "E" : "Anti-Histaminic",
+  "F" : null
+},
+{
+  "A" : 734,
+  "B" : "Dehydroepiandrostero ne (Micronized) 25 mg Capsule",
+  "C" : "10's",
+  "D" : 70,
+  "E" : "Gynaecology",
+  "F" : null
+},
+{
+  "A" : 5078,
+  "B" : "Dengue Test Kit",
+  "C" : "1's mono- carton",
+  "D" : 45,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 1593,
+  "B" : "Desloratadine 5mg and Montelukast 10mg Tablets",
+  "C" : "10's",
+  "D" : 25,
+  "E" : "Anti-Histaminic",
+  "F" : null
+},
+{
+  "A" : 2102,
+  "B" : "Desloratadine Tablets 5mg",
+  "C" : "10's",
+  "D" : 15,
+  "E" : "Anti-Histaminic",
+  "F" : null
+},
+{
+  "A" : 2020,
+  "B" : "Desmopressin Tablets 0.1 mg",
+  "C" : "15's in bottle",
+  "D" : "Under Process",
+  "E" : "Urology",
+  "F" : null
+},
+{
+  "A" : 2305,
+  "B" : "Desvenlafaxine Extended Release 100mg and Clonazepam 0.5mg Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 2304,
+  "B" : "Desvenlafaxine Extended Release 50mg and Clonazepam 0.5mg Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 2307,
+  "B" : "Desvenlafaxine Extended Release Tablets 100mg",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 2306,
+  "B" : "Desvenlafaxine Extended Release Tablets 50mg",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 334,
+  "B" : "Dexamethasone Injection IP 4mg per ml",
+  "C" : "2 ml",
+  "D" : 6,
+  "E" : "Steroids & Hormones",
+  "F" : null
+},
+{
+  "A" : 333,
+  "B" : "Dexamethasone Tablets IP 0.5 mg",
+  "C" : "10's",
+  "D" : 2,
+  "E" : "Steroids & Hormones",
+  "F" : null
+},
+{
+  "A" : 2308,
+  "B" : "Dexlansoprazole MR Capsules 60mg",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Gastrointestinal (GIT)",
+  "F" : null
+},
+{
+  "A" : 2280,
+  "B" : "Dextromethorphan Hydrobromide Lozenges 5mg",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 860,
+  "B" : "Dextromethorphan Hydrobromide Syrup IP 13.5mg per 5ml",
+  "C" : "50 ml",
+  "D" : 23,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 864,
+  "B" : "Dextrose Injection IP 25%w/v",
+  "C" : "100 ml",
+  "D" : 12,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 728,
+  "B" : "Dextrose 5%w/v and Sodium Chloride 0.9%w/v Injection IP",
+  "C" : "500 ml",
+  "D" : 20,
+  "E" : "Electrolytes",
+  "F" : null
+},
+{
+  "A" : 726,
+  "B" : "Dextrose IV Fluid IP 10% w/v",
+  "C" : "500 ml",
+  "D" : 15,
+  "E" : "Electrolytes",
+  "F" : null
+},
+{
+  "A" : 725,
+  "B" : "Dextrose IV Fluid IP 5% W/V",
+  "C" : "500 ml",
+  "D" : 20,
+  "E" : "Electrolytes",
+  "F" : null
+},
+{
+  "A" : 594,
+  "B" : "Dextrose Monohydrate IP Powder",
+  "C" : "75 gm",
+  "D" : 23,
+  "E" : "Electrolytes",
+  "F" : null
+},
+{
+  "A" : 2172,
+  "B" : "Di-Hydralazine Hydrochloride 25mg Tablets USP",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Anti-Histaminic",
+  "F" : null
+},
+{
+  "A" : 2240,
+  "B" : "Diabetes Care Protein Powder",
+  "C" : "400g Jar",
+  "D" : "Under Process",
+  "E" : "Nutraceuticals",
+  "F" : null
+},
+{
+  "A" : 1135,
+  "B" : "Diacerein 50mg + Glucosamine Sulphate 750mg Tablets",
+  "C" : "10's",
+  "D" : 50,
+  "E" : "Ortho",
+  "F" : null
+},
+{
+  "A" : 865,
+  "B" : "Diacerein Capsules IP 50mg",
+  "C" : "10's",
+  "D" : 45,
+  "E" : "Ortho",
+  "F" : null
+},
+{
+  "A" : 656,
+  "B" : "Diastase and Pepsin Enzyme Drops",
+  "C" : "15 ml",
+  "D" : 18,
+  "E" : "Enzyme Preparation",
+  "F" : null
+},
+{
+  "A" : 470,
+  "B" : "Diastase and Pepsin Liquid",
+  "C" : "200 ML",
+  "D" : 50,
+  "E" : "Enzyme Preparation",
+  "F" : null
+},
+{
+  "A" : 866,
+  "B" : "Diazepam Injection IP 5mg per ml",
+  "C" : "2 ML",
+  "D" : 8,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1939,
+  "B" : "Diazepam Tablets IP 10 mg",
+  "C" : "10's",
+  "D" : 20,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1938,
+  "B" : "Diazepam Tablets IP 2 mg",
+  "C" : "10's",
+  "D" : 7,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 320,
+  "B" : "Diazepam Tablets IP 5 mg",
+  "C" : "10's",
+  "D" : 6,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 525,
+  "B" : "Diclofenac 1.16%w/w, Linceed Oil 3%w/w, Methyl Salicylate 10%w/w and Menthol 5%w/w Gel",
+  "C" : "30 GM",
+  "D" : 24,
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : 1594,
+  "B" : "Diclofenac Diethylamine 1.16% w/w, Thiocholchicoside 0.125% w/w, Linseed Oil 3% w/w, Methylsalicylate 10% w/w and Menthol 5% w/w Gel",
+  "C" : "30 gm",
+  "D" : 50,
+  "E" : "Analgesic/Antipyreti c/Anti-Inflammatory",
+  "F" : null
+},
+{
+  "A" : 646,
+  "B" : "Diclofenac diethylamine BP 1.116% (equivalent to diclofenac sodium 1.0% Linseed oil BP 3.0% + Methy",
+  "C" : "30 GM",
+  "D" : 21,
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : 648,
+  "B" : "Diclofenac Dithylamine 1.16%w/w, Linseed Oil 3%w/w, Methyl Salicylate 10%w/w",
+  "C" : "35 gm",
+  "D" : 55,
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : null,
+  "B" : "and Menthol 5%w/w Spray",
+  "C" : null,
+  "D" : null,
+  "E" : null,
+  "F" : null
+},
+{
+  "A" : 11,
+  "B" : "Diclofenac Gastro- Resistant Tablets IP 50 mg",
+  "C" : "10's",
+  "D" : 5.5,
+  "E" : "Analgesic/Antipyreti c/Anti-Inflammatory",
+  "F" : null
+},
+{
+  "A" : 7,
+  "B" : "Diclofenac Gel IP (Diclofenac Diethylamine 1.16%w/w)",
+  "C" : "15 g",
+  "D" : 12,
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : 1596,
+  "B" : "Diclofenac Potassium 50mg and Metaxalone 400mg Tablets",
+  "C" : "10's",
+  "D" : 50,
+  "E" : "Analgesic/Antipyreti c/Anti-Inflammatory",
+  "F" : null
+},
+{
+  "A" : 613,
+  "B" : "Diclofenac Potassium 50mg, Paracetamol 325mg and Serratiopeptidase 10mg Tablets",
+  "C" : "10's",
+  "D" : 19.8,
+  "E" : "Analgesic/Antipyreti c/Anti-Inflammatory",
+  "F" : null
+},
+{
+  "A" : 1597,
+  "B" : "Diclofenac Prolonged release Tablets IP 75 mg",
+  "C" : "10's",
+  "D" : 10,
+  "E" : "Analgesic/Antipyreti c/Anti-Inflammatory",
+  "F" : null
+},
+{
+  "A" : 21,
+  "B" : "Diclofenac Sodium 50mg and Paracetamol 325mg Tablets IP",
+  "C" : "10's",
+  "D" : 9.9,
+  "E" : "Analgesic/Antipyreti c/Anti-Inflammatory",
+  "F" : null
+},
+{
+  "A" : 10,
+  "B" : "Diclofenac Sodium Injection IP 25mg per ml",
+  "C" : "3 ml",
+  "D" : 4,
+  "E" : "Analgesic/Antipyreti c/Anti-Inflammatory",
+  "F" : null
+},
+{
+  "A" : 9,
+  "B" : "Diclofenac Sodium Prolonged Release Tablets IP 100 mg",
+  "C" : "10's",
+  "D" : 12.1,
+  "E" : "Analgesic/Antipyreti c/Anti-Inflammatory",
+  "F" : null
+},
+{
+  "A" : 2103,
+  "B" : "Diclofenac Sodium Suppositories 100mg",
+  "C" : "5's",
+  "D" : "Under Process",
+  "E" : "Analgesic/ Antipyretic/ Anti- inflammatory",
+  "F" : null
+},
+{
+  "A" : 868,
+  "B" : "Dicyclomine Hydrochloride (Dicycloverine) Injection IP 10mg per ml",
+  "C" : "2 ml",
+  "D" : 4,
+  "E" : "Gastrointestinal (GIT)",
+  "F" : null
+},
+{
+  "A" : 487,
+  "B" : "Dicyclomine Hydrochloride 10mg and Activated Dimethicone 40mg per 5 ml Suspension",
+  "C" : "30 ML",
+  "D" : 17,
+  "E" : "Gastrointestinal (GIT)",
+  "F" : null
+},
+{
+  "A" : 467,
+  "B" : "Dicyclomine Hydrochloride 10mg and Mefenamic Acid 250mg Tablets IP",
+  "C" : "10's",
+  "D" : 13.2,
+  "E" : "Analgesic/Antipyreti c/Anti-Inflammatory",
+  "F" : null
+},
+{
+  "A" : 649,
+  "B" : "Dicyclomine Hydrochloride 10mg and Simethicone 40mg Oral Drops",
+  "C" : "10 ml Bottle",
+  "D" : 10,
+  "E" : "Gastrointestinal (GIT)",
+  "F" : null
+},
+{
+  "A" : 183,
+  "B" : "Dicyclomine Tablets IP 10mg",
+  "C" : "10's",
+  "D" : 1,
+  "E" : "Gastrointestinal (GIT)",
+  "F" : null
+},
+{
+  "A" : 2161,
+  "B" : "Diethylcarbamazine 150mg Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Anthelmintic",
+  "F" : null
+},
+{
+  "A" : 1154,
+  "B" : "Diethylcarbamazine Citrate Tablets IP 100mg",
+  "C" : "30's",
+  "D" : 17,
+  "E" : "Anthelmintic",
+  "F" : null
+},
+{
+  "A" : 386,
+  "B" : "Diethylcarbamazine Tablets IP 50 mg",
+  "C" : "30's",
+  "D" : 9,
+  "E" : "Anthelmintic",
+  "F" : null
+},
+{
+  "A" : 8133,
+  "B" : "Digital Blood Pressure Instrument ( 100% mercury free)",
+  "C" : "1's Monopac k",
+  "D" : 1500,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 9029,
+  "B" : "Digital Weighing Scale",
+  "C" : "One in Mono- Pack",
+  "D" : "Under Process",
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 428,
+  "B" : "Digoxin Tablets IP 0.25 mg",
+  "C" : "10's",
+  "D" : 9,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 1599,
+  "B" : "Diltiazem Hydrochloride Extended Release Capsules 120 mg",
+  "C" : "10's",
+  "D" : 35,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 425,
+  "B" : "Diltiazem Sustained Release Tablets 90 mg",
+  "C" : "10's",
+  "D" : 36.3,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 271,
+  "B" : "Diltiazem Tablets IP 30 mg",
+  "C" : "10's",
+  "D" : 12.1,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 272,
+  "B" : "Diltiazem Tablets IP 60 mg",
+  "C" : "10's",
+  "D" : 17,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 1820,
+  "B" : "Dilute nitroglycerin equivalent to Nitroglycerine 2.5mg",
+  "C" : "25's",
+  "D" : "Under Process",
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 2000,
+  "B" : "Dinoprostone Gel 0.5 mg",
+  "C" : "3gm Pre- filled Syringe",
+  "D" : 121,
+  "E" : "Gynaecology",
+  "F" : null
+},
+{
+  "A" : 1600,
+  "B" : "Diosmin Tablets 500 mg (Micronised)",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Chronic Venous Insufficiency (CVI)",
+  "F" : null
+},
+{
+  "A" : 1254,
+  "B" : "Diphenhydramine 13- 15mg, Ammonium Chloride 135-150mg , Sodium Citrate 57- 85mg, Menthol 0.9- 2.6mg Cough Syrup",
+  "C" : "100 ml Bottle",
+  "D" : 18,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 1601,
+  "B" : "Diphenoxylate Hydrochloride 2.5mg and Atropine sulphate 0.025mg Tablet",
+  "C" : "10's",
+  "D" : 6,
+  "E" : "Gastrointestinal (GIT)",
+  "F" : null
+},
+{
+  "A" : 311,
+  "B" : "Disodium Hydrogen Citrate Syrup (Alkalyser) 1.4 gm per 5 ml",
+  "C" : "100 ml",
+  "D" : 22,
+  "E" : "Urology",
+  "F" : null
+},
+{
+  "A" : 1859,
+  "B" : "Disodium Hydrogen Citrate Syrup 1.37gm per 5ml",
+  "C" : "100ml Bottle",
+  "D" : "Under Process",
+  "E" : "Urology",
+  "F" : null
+},
+{
+  "A" : 1856,
+  "B" : "Disodium Hydrogen Citrate Syrup 1.53gm per 5ml",
+  "C" : "100ml Bottle",
+  "D" : 30,
+  "E" : "Urology",
+  "F" : null
+},
+{
+  "A" : 8160,
+  "B" : "Disposable Plastic Hand Gloves (Free size)",
+  "C" : "Pair",
+  "D" : 3,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 601,
+  "B" : "Disulfiram Tablets IP 500 mg",
+  "C" : "4's",
+  "D" : 7,
+  "E" : "Anti-Alcoholism",
+  "F" : null
+},
+{
+  "A" : 2049,
+  "B" : "Divalproex Prolonged release Tablets IP 500mg",
+  "C" : "10's",
+  "D" : 65,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 2104,
+  "B" : "Divalproex Sodium Extended Release Tablets IP 250 mg",
+  "C" : "10's",
+  "D" : 25,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1602,
+  "B" : "Divalproex Tablets IP 500 mg",
+  "C" : "10's",
+  "D" : 35,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 273,
+  "B" : "Dobutamine Hydrochloride Injection IP 250mg per 20ml",
+  "C" : "Vial",
+  "D" : 38,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 1212,
+  "B" : "Docetaxel Injection IP 120 mg",
+  "C" : "VIAL",
+  "D" : 2700,
+  "E" : "Oncology",
+  "F" : null
+},
+{
+  "A" : 1211,
+  "B" : "Docetaxel Injection IP 80 mg",
+  "C" : "VIAL",
+  "D" : 1800,
+  "E" : "Oncology",
+  "F" : null
+},
+{
+  "A" : 2043,
+  "B" : "Domperidone 10mg and Paracetamol 325mg Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Gastrointestinal (GIT)",
+  "F" : null
+},
+{
+  "A" : 187,
+  "B" : "Domperidone Suspension IP 5mg per 5ml",
+  "C" : "30 ml",
+  "D" : 13,
+  "E" : "Anti-Emetic",
+  "F" : null
+},
+{
+  "A" : 186,
+  "B" : "Domperidone Tablets IP 10 mg",
+  "C" : "10's",
+  "D" : 4.4,
+  "E" : "Anti-Emetic",
+  "F" : null
+},
+{
+  "A" : 2311,
+  "B" : "Donepezil 5mg and Memantine 10mg Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 2310,
+  "B" : "Donepezil 5mg and Memantine 5mg Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 875,
+  "B" : "Donepezil Hydrochloride Tablets IP 10mg",
+  "C" : "10's",
+  "D" : 25,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1298,
+  "B" : "Donepezil Tablets IP 5 mg",
+  "C" : "10's",
+  "D" : 20,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 274,
+  "B" : "Dopamine Hydrochloride Injection IP 200 mg per 5ml",
+  "C" : "5 ml",
+  "D" : 15,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 1603,
+  "B" : "Dorzolamide 2% w/v and Timolol 0.5% w/v Eye Drops IP",
+  "C" : "5 ml",
+  "D" : 160,
+  "E" : "Opthalmic/Otic",
+  "F" : null
+},
+{
+  "A" : 1604,
+  "B" : "Dorzolamide Eye Drops IP 2% w/v",
+  "C" : "5 ml",
+  "D" : 110,
+  "E" : "Opthalmic/Otic",
+  "F" : null
+},
+{
+  "A" : 2105,
+  "B" : "Dosulepin (Dothiepin) Tablets IP 50mg",
+  "C" : "10's",
+  "D" : 30,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1605,
+  "B" : "Dosulepin (or Dothiepin) Tablets 25 mg",
+  "C" : "10's",
+  "D" : 16,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1606,
+  "B" : "Dosulepine (or Dothiepin) Tablets IP 75mg",
+  "C" : "10's",
+  "D" : 72,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1940,
+  "B" : "Doxepin Capsules IP 10mg",
+  "C" : "10's",
+  "D" : 15,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1941,
+  "B" : "Doxepin Capsules IP 25mg",
+  "C" : "10's",
+  "D" : 40,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1942,
+  "B" : "Doxepin Capsules IP 75mg",
+  "C" : "10's",
+  "D" : 60,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 2106,
+  "B" : "Doxofylline (Sustained-release) 400mg and",
+  "C" : "10's",
+  "D" : 65,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : null,
+  "B" : "Montelukast 10mg Tablets",
+  "C" : null,
+  "D" : null,
+  "E" : null,
+  "F" : null
+},
+{
+  "A" : 555,
+  "B" : "Doxofylline Tablets IP 400 mg",
+  "C" : "10's",
+  "D" : 17,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 156,
+  "B" : "Doxorubicin Injection IP 50mg (2mg per ml)",
+  "C" : "Vial",
+  "D" : 300,
+  "E" : "Oncology",
+  "F" : null
+},
+{
+  "A" : 92,
+  "B" : "Doxycycline Capsules IP 100mg",
+  "C" : "10's",
+  "D" : 14,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 474,
+  "B" : "Doxylamine Succinate 10mg and Pyridoxine Hydrochloride 10mg Tablets",
+  "C" : "30's",
+  "D" : 23,
+  "E" : "Gynaecology",
+  "F" : null
+},
+{
+  "A" : 1157,
+  "B" : "Doxylamine Succinate 20mg and Pyridoxine Hydrochloride 20mg Tablets",
+  "C" : "10's",
+  "D" : 15,
+  "E" : "Gynaecology",
+  "F" : null
+},
+{
+  "A" : 198,
+  "B" : "Dried Aluminium Hydroxide 250mg, Magnesium Hydroxide 250mg and Activated Dimethicone 50mg per 5ml Suspension",
+  "C" : "170 ml",
+  "D" : 32,
+  "E" : "Gastrointestinal (GIT)",
+  "F" : null
+},
+{
+  "A" : 188,
+  "B" : "Dried Aluminium Hydroxide 250mg, Magnesium Hydroxide 250mg and Activated Dimethicone 50mg Tablets",
+  "C" : "10's",
+  "D" : 6,
+  "E" : "Gastrointestinal (GIT)",
+  "F" : null
+},
+{
+  "A" : 1301,
+  "B" : "Drotaverine 80mg and Aceclofenac 100mg Tablets",
+  "C" : "10's",
+  "D" : 33,
+  "E" : "Analgesic/Antipyreti c/Anti-Inflammatory",
+  "F" : null
+},
+{
+  "A" : 878,
+  "B" : "Drotaverine Hydrochloride 80mg and Mefenamic Acid 250mg Tablets",
+  "C" : "10's",
+  "D" : 20,
+  "E" : "Gastrointestinal (GIT)",
+  "F" : null
+},
+{
+  "A" : 879,
+  "B" : "Drotaverine Hydrochloride Tablets IP 40mg",
+  "C" : "10's",
+  "D" : 8,
+  "E" : "Gastrointestinal (GIT)",
+  "F" : null
+},
+{
+  "A" : 1607,
+  "B" : "Drotaverine Hydrochloride Tablets IP 80 mg",
+  "C" : "15's",
+  "D" : 20,
+  "E" : "Gastrointestinal (GIT)",
+  "F" : null
+},
+{
+  "A" : 1943,
+  "B" : "Duloxetine Gastro Resistant Tablets IP 30mg",
+  "C" : "10's",
+  "D" : 30,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1302,
+  "B" : "Duloxetine Gastro- resistant Tablets IP 20 mg",
+  "C" : "10's",
+  "D" : 27,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1860,
+  "B" : "Dutasteride Capsule IP 0.5 mg",
+  "C" : "10's",
+  "D" : 50,
+  "E" : "Urology",
+  "F" : null
+},
+{
+  "A" : 496,
+  "B" : "Dydrogesterone Tablets IP 10 mg",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Gynaecology",
+  "F" : null
+},
+{
+  "A" : 5083,
+  "B" : "Ear buds 100% Cotton",
+  "C" : "100 swab",
+  "D" : 25,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 881,
+  "B" : "Ebastine Tablets IP 10mg",
+  "C" : "10's",
+  "D" : 20,
+  "E" : "Anti-Histaminic",
+  "F" : null
+},
+{
+  "A" : 2162,
+  "B" : "Eberconazole Cream 1% w/w",
+  "C" : "30g Lemitube",
+  "D" : 130,
+  "E" : "Anti-fungal",
+  "F" : null
+},
+{
+  "A" : 1608,
+  "B" : "Efavirenz 600mg, Emtricitabine 200mg and Tenofovir Disoproxil Fumarate 300mg Tablets IP",
+  "C" : "30's",
+  "D" : 1100,
+  "E" : "Anti-Viral",
+  "F" : null
+},
+{
+  "A" : 882,
+  "B" : "Efavirenz Tablets IP 600mg",
+  "C" : "30's",
+  "D" : 510,
+  "E" : "Anti-Viral",
+  "F" : null
+},
+{
+  "A" : 1959,
+  "B" : "Eicosapentaenoic Acid 180mg and Docosahexaenoic Acid 120mg Soft Gelatin Capsule",
+  "C" : "30's Bottle",
+  "D" : 120,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 8161,
+  "B" : "Elastic gauze bandages 10cm",
+  "C" : "1's",
+  "D" : 190,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 8162,
+  "B" : "Elastic gauze bandages 7.5cm",
+  "C" : "1's",
+  "D" : 150,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 9024,
+  "B" : "Elbow Support (Extra Large)",
+  "C" : "Pair in Mono- Pack",
+  "D" : "Under Process",
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 9023,
+  "B" : "Elbow Support (Large)",
+  "C" : "Pair in Mono- Pack",
+  "D" : "Under Process",
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 9022,
+  "B" : "Elbow Support (Medium)",
+  "C" : "Pair in Mono- Pack",
+  "D" : "Under Process",
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 9021,
+  "B" : "Elbow Support (Small)",
+  "C" : "Pair in Mono- Pack",
+  "D" : "Under Process",
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 8136,
+  "B" : "Elecrical Nebulizer Machine",
+  "C" : "1's Monopac k",
+  "D" : "Under Process",
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 2312,
+  "B" : "Empagliflozin 10mg and Linagliptin 5mg Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Anti-Diabetic",
+  "F" : null
+},
+{
+  "A" : 1609,
+  "B" : "Empagliflozin Tablets 100 mg",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Anti-Diabetic",
+  "F" : null
+},
+{
+  "A" : 1610,
+  "B" : "Empagliflozin Tablets 25 mg",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Anti-Diabetic",
+  "F" : null
+},
+{
+  "A" : 1611,
+  "B" : "Emtricitabine 200mg and Tenofovir Disoproxil Fumarate 300mg Tablets IP",
+  "C" : "30's",
+  "D" : 1050,
+  "E" : "Anti-Viral",
+  "F" : null
+},
+{
+  "A" : 444,
+  "B" : "Enalapril 10mg and Hydrochlorothiazide 25mg Tablets IP",
+  "C" : "30's",
+  "D" : 60,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 2163,
+  "B" : "Enalapril Maleate Tablets IP 2.5mg",
+  "C" : "10's",
+  "D" : 7,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 275,
+  "B" : "Enalapril Tablets IP 5 mg",
+  "C" : "10's",
+  "D" : 5.5,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 5053,
+  "B" : "Endotracheal Tube Cuffed, Size 4",
+  "C" : "1's",
+  "D" : 80,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 5054,
+  "B" : "Endotracheal Tube Cuffed, Size 4.5",
+  "C" : "1's",
+  "D" : 75,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 5055,
+  "B" : "Endotracheal Tube Cuffed, Size 5",
+  "C" : "1's",
+  "D" : 70,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 5056,
+  "B" : "Endotracheal Tube Cuffed, Size 6",
+  "C" : "1's",
+  "D" : 70,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 5057,
+  "B" : "Endotracheal Tube Cuffed, Size 6.5",
+  "C" : "1's",
+  "D" : 70,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 5058,
+  "B" : "Endotracheal Tube Cuffed, Size 7",
+  "C" : "1's",
+  "D" : 70,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 5059,
+  "B" : "Endotracheal Tube Cuffed, Size 7.5",
+  "C" : "1's",
+  "D" : 70,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 5060,
+  "B" : "Endotracheal Tube Cuffed, Size 8",
+  "C" : "1's",
+  "D" : 70,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 5061,
+  "B" : "Endotracheal Tube Cuffed, Size 8.5",
+  "C" : "1's",
+  "D" : 70,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 5062,
+  "B" : "Endotracheal Tube Cuffed, Size 9",
+  "C" : "1's",
+  "D" : 70,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 5046,
+  "B" : "Endotracheal Tube Plain, Size 2.5, Sterile, Single use",
+  "C" : "1's",
+  "D" : 35,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 5047,
+  "B" : "Endotracheal Tube Plain, Size 3, Sterile, Single use",
+  "C" : "1's",
+  "D" : 35,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 5048,
+  "B" : "Endotracheal Tube Plain, Size 3.5, Sterile, Single use",
+  "C" : "1's",
+  "D" : 35,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 5049,
+  "B" : "Endotracheal Tube Plain, Size 4, Sterile, Single use",
+  "C" : "1's",
+  "D" : 35,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 5050,
+  "B" : "Endotracheal Tube Plain, Size 4.5, Sterile, Single use",
+  "C" : "1's",
+  "D" : 35,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 5051,
+  "B" : "Endotracheal Tube Plain, Size 5, Sterile, Single use",
+  "C" : "1's",
+  "D" : 35,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 5052,
+  "B" : "Endotracheal Tube Plain, Size 8.5, Sterile, Single use",
+  "C" : "1's",
+  "D" : 40,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 276,
+  "B" : "Enoxaparin Injection IP 40 mg per 0.4 ml",
+  "C" : "0.4 ml",
+  "D" : 187,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 277,
+  "B" : "Enoxaparin Injection IP 60 mg per 0.6 ml",
+  "C" : "0.6 ml",
+  "D" : 217.8,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 1612,
+  "B" : "Entecavir Tablets IP 0.5 mg",
+  "C" : "10's",
+  "D" : 100,
+  "E" : "Hepato-Protective",
+  "F" : null
+},
+{
+  "A" : 1449,
+  "B" : "Enzyme syrup mixed fruit flavour",
+  "C" : "200 ml",
+  "D" : 48,
+  "E" : "Enzyme Preparation",
+  "F" : null
+},
+{
+  "A" : 1880,
+  "B" : "Epalrestat Sustained Release Tablets 50 mg",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Neuropathy",
+  "F" : null
+},
+{
+  "A" : 1613,
+  "B" : "Eplerenone Tablets IP 25 mg",
+  "C" : "10's",
+  "D" : 130,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 1614,
+  "B" : "Ergotamine 1mg, Caffeine 100mg, Paracetamol 250mg and Prochlorperazine 2.5mg Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Analgesic/Antipyreti c/Anti-Inflammatory",
+  "F" : null
+},
+{
+  "A" : 1213,
+  "B" : "Erlotinib Tablets IP 150 mg",
+  "C" : "10's Bottle",
+  "D" : 700,
+  "E" : "Oncology",
+  "F" : null
+},
+{
+  "A" : 884,
+  "B" : "Erythromycin Estolate Suspension 125 Mg/5ml",
+  "C" : "60 ml",
+  "D" : 17,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1615,
+  "B" : "Erythromycin Estolate Tablets 500 mg",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 93,
+  "B" : "Erythromycin Stearate Tablets IP 250mg",
+  "C" : "10's",
+  "D" : 19,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 1038,
+  "B" : "Erythropoietin Injection IP 2000 IU",
+  "C" : "Vial",
+  "D" : 230,
+  "E" : "Erythropoiesis",
+  "F" : null
+},
+{
+  "A" : 1037,
+  "B" : "Erythropoietin Injection IP 4000 IU",
+  "C" : "Vial",
+  "D" : 297,
+  "E" : "Erythropoiesis",
+  "F" : null
+},
+{
+  "A" : 1306,
+  "B" : "Escitalopram Oxalate 5mg and Clonazepam 0.5mg Tablets IP",
+  "C" : "10's",
+  "D" : 14.3,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 718,
+  "B" : "Escitalopram Oxelate 10mg and Clonazepam 0.5mg Tablets IP",
+  "C" : "10's",
+  "D" : 15,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 321,
+  "B" : "Escitalopram Tablets IP 10 mg",
+  "C" : "10's",
+  "D" : 10,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 322,
+  "B" : "Escitalopram Tablets IP 20 mg",
+  "C" : "10's",
+  "D" : 20,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1944,
+  "B" : "Escitalopram Tablets IP 5 mg",
+  "C" : "10's",
+  "D" : 15,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 472,
+  "B" : "Esomeprazole 40mg (Enteric-Coated) and Domperidone 30mg (Sustained Release) Capsules",
+  "C" : "10's",
+  "D" : 22,
+  "E" : "Gastrointestinal (GIT)",
+  "F" : null
+},
+{
+  "A" : 480,
+  "B" : "Esomeprazole 40mg (Enteric-coated) and Levosulpiride 75mg (Sustained release) Capsules",
+  "C" : "10's",
+  "D" : 66,
+  "E" : "Gastrointestinal (GIT)",
+  "F" : null
+},
+{
+  "A" : 2037,
+  "B" : "Esomeprazole Gastro- Resistance Tablets IP 20mg",
+  "C" : "10's",
+  "D" : 10,
+  "E" : "Gastrointestinal (GIT)",
+  "F" : null
+},
+{
+  "A" : 2164,
+  "B" : "Esomeprazole Magnessium 40mg (Enteric Coated ) and Itopride Hydrochloride 150mg (Sustained Release) Capsules.",
+  "C" : "10's",
+  "D" : 50,
+  "E" : "Gastrointestinal (GIT)",
+  "F" : null
+},
+{
+  "A" : 484,
+  "B" : "Esomeprazole Tablets IP 40 mg",
+  "C" : "10's",
+  "D" : 20.9,
+  "E" : "Gastrointestinal (GIT)",
+  "F" : null
+},
+{
+  "A" : 2147,
+  "B" : "Estradiol Tablets 2mg",
+  "C" : "28's",
+  "D" : 110,
+  "E" : "Gynaecology",
+  "F" : null
+},
+{
+  "A" : 632,
+  "B" : "Etamsylate Tablets 250 mg",
+  "C" : "10's",
+  "D" : 9,
+  "E" : "Coagulants",
+  "F" : null
+},
+{
+  "A" : 631,
+  "B" : "Etamsylate Tablets 500 mg",
+  "C" : "10's",
+  "D" : 13,
+  "E" : "Coagulants",
+  "F" : null
+},
+{
+  "A" : 2001,
+  "B" : "Ethinyl Estradiol 15Mcg And Gestodene 60 Mcg Tablet",
+  "C" : "28's Monopac k",
+  "D" : "Under Process",
+  "E" : "Gynaecology",
+  "F" : null
+},
+{
+  "A" : 2002,
+  "B" : "Ethinylestradiol 0.035 Mg And Cyproterone 2 Mg Tablet",
+  "C" : "21's Monopac k",
+  "D" : 90,
+  "E" : "Gynaecology",
+  "F" : null
+},
+{
+  "A" : 1307,
+  "B" : "Ethinylestradiol 0.03mg and Desogestrel 0.15mg Tablets",
+  "C" : "21's",
+  "D" : 90,
+  "E" : "Gynaecology",
+  "F" : null
+},
+{
+  "A" : 1308,
+  "B" : "Ethinylestradiol 0.03mg and Levonorgestrel 0.15mg Tablets IP",
+  "C" : "21's",
+  "D" : 35,
+  "E" : "Gynaecology",
+  "F" : null
+},
+{
+  "A" : 885,
+  "B" : "Ethinylestradiol 0.05mg and Levonorgestrel 0.25mg Tablets IP",
+  "C" : "21's",
+  "D" : 30,
+  "E" : "Gynaecology",
+  "F" : null
+},
+{
+  "A" : 2107,
+  "B" : "Etizolam 0.5mg and Propranolol Hydrochloride 20mg Tablets",
+  "C" : "10's",
+  "D" : 20,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 2313,
+  "B" : "Etizolam 0.5mg and Propranolol Hydrochloride 40mg Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1945,
+  "B" : "Etizolam Tablets IP 0.25mg",
+  "C" : "10's",
+  "D" : 7,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 764,
+  "B" : "Etizolam Tablets IP 0.5mg",
+  "C" : "10's",
+  "D" : 9.9,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 717,
+  "B" : "Etodolac Tablets IP 300mg",
+  "C" : "10's",
+  "D" : 34,
+  "E" : "Analgesic/Antipyreti c/Anti-Inflammatory",
+  "F" : null
+},
+{
+  "A" : 245,
+  "B" : "Etophyllin 77mg and Theophylline 23mg Tablets",
+  "C" : "10's",
+  "D" : 5,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 244,
+  "B" : "Etophyllin 84.7mg and Theophylline 25.3mg Injection per 2ml",
+  "C" : "2 ml",
+  "D" : 2,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 1848,
+  "B" : "Etophyllin 84.7mg and Theophylline 25.3mg Injection per ml",
+  "C" : "2 ml",
+  "D" : 4,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 627,
+  "B" : "Etophylline 115mg and Theophylline 35mg Prolonged Release Tablets IP",
+  "C" : "10's",
+  "D" : 8,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 1616,
+  "B" : "Etophylline 231mg (Sustained Release), Theophylline 69mg (Sustained Release) and Montelukast 10mg Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 628,
+  "B" : "Etophylline 231mg and Theophylline 69mg Prolonged Release Tablets IP",
+  "C" : "10's",
+  "D" : 14.3,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 2026,
+  "B" : "Etoposide Capsules IP 50 mg",
+  "C" : "8's",
+  "D" : 216,
+  "E" : "Oncology",
+  "F" : null
+},
+{
+  "A" : 158,
+  "B" : "Etoposide Injection IP 100 mg per 5 ml",
+  "C" : "Vial",
+  "D" : 99,
+  "E" : "Oncology",
+  "F" : null
+},
+{
+  "A" : 1617,
+  "B" : "Etoricoxib 60mg and Paracetamol 325mg Tablets",
+  "C" : "10's",
+  "D" : 27,
+  "E" : "Analgesic/Antipyreti c/Anti-Inflammatory",
+  "F" : null
+},
+{
+  "A" : 1618,
+  "B" : "Etoricoxib 60mg and Thiocolchicoside 4mg Tablets",
+  "C" : "10's",
+  "D" : 60,
+  "E" : "Analgesic/Antipyreti c/Anti-Inflammatory",
+  "F" : null
+},
+{
+  "A" : 12,
+  "B" : "Etoricoxib Tablets IP 120 mg",
+  "C" : "10's",
+  "D" : 38,
+  "E" : "Analgesic/Antipyreti c/Anti-Inflammatory",
+  "F" : null
+},
+{
+  "A" : 13,
+  "B" : "Etoricoxib Tablets IP 90 mg",
+  "C" : "10's",
+  "D" : 31,
+  "E" : "Analgesic/Antipyreti c/Anti-Inflammatory",
+  "F" : null
+},
+{
+  "A" : 1619,
+  "B" : "Eucalyptol 0.092%w/v, Menthol 0.042%w/v, Methyl salicylate 0.060%w/v and Thymol 0.064%w/v Mouth wash",
+  "C" : "200 ml",
+  "D" : "Under Process",
+  "E" : "Stomatologicals",
+  "F" : null
+},
+{
+  "A" : 1620,
+  "B" : "Evening Primrose Oil 1000 mg",
+  "C" : "15's",
+  "D" : 85,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 1621,
+  "B" : "Evening Primrose Oil 500 mg",
+  "C" : "15's",
+  "D" : 55,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 2165,
+  "B" : "Evogliptin 5mg and Metformin Hydrochloride Sustained Release 1000mg Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Anti-Diabetic",
+  "F" : null
+},
+{
+  "A" : 2166,
+  "B" : "Evogliptin 5mg and Metformin Hydrochloride Sustained Release 500mg Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Anti-Diabetic",
+  "F" : null
+},
+{
+  "A" : 2167,
+  "B" : "Evogliptin Tartarate 5mg Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Anti-Diabetic",
+  "F" : null
+},
+{
+  "A" : 8197,
+  "B" : "Exercise Ball (Universal Size)",
+  "C" : "1’s in Mono Carton",
+  "D" : "Under Process",
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 191,
+  "B" : "Famotidine Tablets IP 20 mg",
+  "C" : "14's",
+  "D" : 5,
+  "E" : "Gastrointestinal (GIT)",
+  "F" : null
+},
+{
+  "A" : 192,
+  "B" : "Famotidine Tablets IP 40 mg",
+  "C" : "14's",
+  "D" : 4,
+  "E" : "Gastrointestinal (GIT)",
+  "F" : null
+},
+{
+  "A" : 1310,
+  "B" : "Faropenem Tablets 200mg",
+  "C" : "6's",
+  "D" : 300,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 888,
+  "B" : "Febuxostat Tablets 40mg",
+  "C" : "10's",
+  "D" : 20,
+  "E" : "Ortho",
+  "F" : null
+},
+{
+  "A" : 889,
+  "B" : "Febuxostat Tablets 80mg",
+  "C" : "10's",
+  "D" : 34,
+  "E" : "Ortho",
+  "F" : null
+},
+{
+  "A" : 9003,
+  "B" : "Female Natural Latex Condom",
+  "C" : "Three in Mono- Pack",
+  "D" : "Under Process",
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 2168,
+  "B" : "Fenofibrate Capsules IP 200mg",
+  "C" : "10's",
+  "D" : 25,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 442,
+  "B" : "Fenofibrate Tablets IP 160 mg",
+  "C" : "10's",
+  "D" : 29.7,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 1311,
+  "B" : "Fenofibrate Tablets IP 145 mg",
+  "C" : "10's",
+  "D" : 22,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 495,
+  "B" : "Ferric Ammonium Citrate 160mg, Cyanocobalamin 7.5mcg and Folic Acid 0.5mg Syrup per 15ml",
+  "C" : "200 ML",
+  "D" : 35,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 498,
+  "B" : "Ferrous Ascorbate 100mg and Folic Acid 1.5mg Tablets",
+  "C" : "10's",
+  "D" : 23.1,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 1622,
+  "B" : "Ferrous Ascorbate 100mg, Folic Acid 1.5mg and Zinc Sulphate 22.5mg Tablets",
+  "C" : "10's",
+  "D" : 33,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 2045,
+  "B" : "Ferrous Asparto Glycinate 100 mg, L- Methylfolate Calcium 300mcg, Methylcobalamin 500mcg Tablet",
+  "C" : "10's",
+  "D" : 40,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 1623,
+  "B" : "Fexofenadine Hydrochloride Suspension (30mg/5ml)",
+  "C" : "100 ml",
+  "D" : 30,
+  "E" : "Anti-Histaminic",
+  "F" : null
+},
+{
+  "A" : 246,
+  "B" : "Fexofenadine Tablets IP 120 mg",
+  "C" : "10's",
+  "D" : 24,
+  "E" : "Anti-Histaminic",
+  "F" : null
+},
+{
+  "A" : 247,
+  "B" : "Fexofenadine Tablets IP 180 mg",
+  "C" : "10's",
+  "D" : 37.4,
+  "E" : "Anti-Histaminic",
+  "F" : null
+},
+{
+  "A" : 1861,
+  "B" : "Finasteride Tablets IP 1mg",
+  "C" : "10's",
+  "D" : 15,
+  "E" : "Urology",
+  "F" : null
+},
+{
+  "A" : 680,
+  "B" : "Finasteride Tablets IP 5mg",
+  "C" : "10's",
+  "D" : 44,
+  "E" : "Urology",
+  "F" : null
+},
+{
+  "A" : 1312,
+  "B" : "Flavoxate Tablets IP 200 mg",
+  "C" : "15's",
+  "D" : 60,
+  "E" : "Urology",
+  "F" : null
+},
+{
+  "A" : 1246,
+  "B" : "Fluconazole Tablets IP 150 mg",
+  "C" : "1's",
+  "D" : 5.5,
+  "E" : "Anti-Fungal",
+  "F" : null
+},
+{
+  "A" : 323,
+  "B" : "Flunarizine Tablets IP 10 mg",
+  "C" : "10's",
+  "D" : 8,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 324,
+  "B" : "Flunarizine Tablets IP 5 mg",
+  "C" : "10's",
+  "D" : 7,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 325,
+  "B" : "Fluoxetine Hydrochloride Capsules IP 20mg",
+  "C" : "10's",
+  "D" : 8.8,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1624,
+  "B" : "Flupentixol 0.5mg and Melitracen 10mg Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 677,
+  "B" : "Flupentixol Tablets 0.5 mg",
+  "C" : "10's",
+  "D" : 11,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 2316,
+  "B" : "Flupentixole 0.5mg and Nortriptyline 10mg Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 2169,
+  "B" : "Flupirtine Maleate Capsules 100mg",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Analgesic/ Antipyretic/ Anti- inflammatory",
+  "F" : null
+},
+{
+  "A" : 2314,
+  "B" : "Flurbiprofen 0.03% w/v Eye Drop 5ml",
+  "C" : "5ml Drop bottle in Mono Carton",
+  "D" : "Under Process",
+  "E" : "Opthalmic/Otic",
+  "F" : null
+},
+{
+  "A" : 2317,
+  "B" : "Fluromethalone 0.1% w/v Eye Drop 5ml",
+  "C" : "5ml Drop bottle in Mono Carton",
+  "D" : "Under Process",
+  "E" : "Opthalmic/Otic",
+  "F" : null
+},
+{
+  "A" : 1315,
+  "B" : "Fluticasone Furoate Nasal Spray 27.5mcg",
+  "C" : "120 MDI",
+  "D" : 138,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 1625,
+  "B" : "Fluticasone Propionate Cream IP 0.05%",
+  "C" : "10 g",
+  "D" : 20,
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : 560,
+  "B" : "Fluticasone Propionate Nasal Spray IP 50 mcg",
+  "C" : "100 MD",
+  "D" : 80,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 544,
+  "B" : "FLUTICASONE PROPIONATE RESPULE 0.5 MG/2ML",
+  "C" : "2 ML",
+  "D" : 17,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 1124,
+  "B" : "Fluvoxamine Maleate Tablets IP 100mg",
+  "C" : "10's",
+  "D" : 74,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 593,
+  "B" : "Folic Acid 15mg, Cyanocobalamine 500mcg and Nicotinamide 200mg Injection",
+  "C" : "10 ML",
+  "D" : "Under Process",
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 224,
+  "B" : "Folic Acid Tablets IP 5 mg",
+  "C" : "15's",
+  "D" : 4.4,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 530,
+  "B" : "Formoterol 6mcg and Budesonide 200mcg Rotacaps",
+  "C" : "30's",
+  "D" : 85,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 897,
+  "B" : "Formoterol 6mcg and Fluticasone Propionate 250mcg Inhaler",
+  "C" : "120 MDI",
+  "D" : 290,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 1628,
+  "B" : "Formoterol Fumarate 12mcg and Budesonide 400mcg Powder for Inhalation IP",
+  "C" : "30's",
+  "D" : 100,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 1631,
+  "B" : "Formoterol Fumarate 20mcg and Budesonide 0.5mg Respirator Suspension",
+  "C" : "2 ml",
+  "D" : 15,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 1632,
+  "B" : "Formoterol Fumarate 20mcg and Budesonide 1mg Respirator Suspension",
+  "C" : "2 ml",
+  "D" : 20,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 1626,
+  "B" : "Formoterol Fumarate 6mcg and Budesonide 200mcg Inhaler",
+  "C" : "120 MD",
+  "D" : 165,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 1627,
+  "B" : "Formoterol Fumarate 6mcg and Budesonide 400mcg Inhaler",
+  "C" : "120 MD",
+  "D" : 175,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 1630,
+  "B" : "Formoterol Fumarate 6mcg and Budesonide 400mcg Powder for Inhalation IP",
+  "C" : "30's",
+  "D" : 85,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 1633,
+  "B" : "Formoterol Fumarate 6mcg and Fluticasone Propionate 250mcg Powder for Inhalation",
+  "C" : "30's",
+  "D" : 110,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 1629,
+  "B" : "Formoterol Fumarate and Budesonide Powder for Inhalation IP (6mcg/400mcg)",
+  "C" : "30's",
+  "D" : "Under Process",
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 1634,
+  "B" : "Formoterol Fumarate and Fluticasone Propionate Powder for Inhalation (6mcg/250mcg)",
+  "C" : "30's",
+  "D" : "Under Process",
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 1635,
+  "B" : "Framycetin Skin Cream 1 %",
+  "C" : "30 g",
+  "D" : "Under Process",
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : 2108,
+  "B" : "Frusemide 20mg and Spironolactone 25mg Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Diuretic",
+  "F" : null
+},
+{
+  "A" : 899,
+  "B" : "Frusemide 20mg and Spironolactone 50mg Tablets",
+  "C" : "10's",
+  "D" : 28,
+  "E" : "Diuretic",
+  "F" : null
+},
+{
+  "A" : 278,
+  "B" : "Frusemide Injection IP 10 mg per ml",
+  "C" : "2 ml",
+  "D" : 3,
+  "E" : "Diuretic",
+  "F" : null
+},
+{
+  "A" : 279,
+  "B" : "Frusemide Tablets IP 40 mg",
+  "C" : "10's",
+  "D" : 5,
+  "E" : "Diuretic",
+  "F" : null
+},
+{
+  "A" : 1637,
+  "B" : "Fungal Diastase 180mg, Papain 60mg and Activated Charcoal 75mg Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Enzyme Preparation",
+  "F" : null
+},
+{
+  "A" : 1636,
+  "B" : "Fungal Diastase with Carminatives Syrup",
+  "C" : "200 ml",
+  "D" : 45,
+  "E" : "Enzyme Preparation",
+  "F" : null
+},
+{
+  "A" : 193,
+  "B" : "Furazolidone Tablets IP 100 mg",
+  "C" : "10's",
+  "D" : 1,
+  "E" : "Gastrointestinal (GIT)",
+  "F" : null
+},
+{
+  "A" : 1638,
+  "B" : "Fusidic Acid 2% w/w and Betamethasone Valerate 0.1% w/w Cream",
+  "C" : "15 g",
+  "D" : 36,
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : 120,
+  "B" : "Fusidic Acid Cream IP 2% w/w",
+  "C" : "5 gm Tube",
+  "D" : 25,
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : 1639,
+  "B" : "Gabapentin 100 mg and Nortryptyline 10 mg Tablet",
+  "C" : "15's",
+  "D" : 25,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 900,
+  "B" : "Gabapentin 100mg and Methylcobalamin 500mcg Tablets",
+  "C" : "10's",
+  "D" : 36.3,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1641,
+  "B" : "Gabapentin 300 mg Capsule",
+  "C" : "15's",
+  "D" : "Under Process",
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1228,
+  "B" : "Gabapentin 300mg and Amitriptyline 10mg Tablets",
+  "C" : "10's",
+  "D" : 55,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 1640,
+  "B" : "Gabapentin 300mg and Methylcobalamin 500mcg Tablet",
+  "C" : "10's",
+  "D" : 40,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1642,
+  "B" : "Gabapentin 400 mg and Nortryptyline 10 mg Tablet",
+  "C" : "10's",
+  "D" : 50,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1111,
+  "B" : "Gabapentin 400mg and Nortriptyline 10mg Tablets",
+  "C" : "10's",
+  "D" : 55,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 901,
+  "B" : "Gabapentin Capsules IP 300mg",
+  "C" : "10's",
+  "D" : 27.5,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1319,
+  "B" : "Gabapentin Tablets IP 100 mg",
+  "C" : "10's",
+  "D" : 15.4,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 661,
+  "B" : "Gama Benzene Hexachloride 1%w/v and Cetrimide 0.1%w/v lotion",
+  "C" : "100 ml",
+  "D" : 55,
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : 1882,
+  "B" : "Gatifloxacin 0.3 % w/v and Prednisolone 1% w/v Eye Drops",
+  "C" : "10ml Drops",
+  "D" : "Under Process",
+  "E" : "Opthalmic/Otic",
+  "F" : null
+},
+{
+  "A" : 1881,
+  "B" : "Gatifloxacin 0.3% w/v and Dexamethasone 0.1% w/v Eye Drops",
+  "C" : "3ml Drops",
+  "D" : "Under Process",
+  "E" : "Opthalmic/Otic",
+  "F" : null
+},
+{
+  "A" : 1214,
+  "B" : "Gefitinib Tablets IP 250 mg",
+  "C" : "10's",
+  "D" : 440,
+  "E" : "Oncology",
+  "F" : null
+},
+{
+  "A" : 159,
+  "B" : "Gemcitabine 1000 mg Injection IP",
+  "C" : "Vial",
+  "D" : 836,
+  "E" : "Oncology",
+  "F" : null
+},
+{
+  "A" : 160,
+  "B" : "Gemcitabine Injection IP 200mg",
+  "C" : "Vial",
+  "D" : 240,
+  "E" : "Oncology",
+  "F" : null
+},
+{
+  "A" : 1883,
+  "B" : "Gentamicin 0.3% w/v and Dexamethasone 0.1% w/v Eye Drops",
+  "C" : "10ml Drops",
+  "D" : "Under Process",
+  "E" : "Opthalmic/Otic",
+  "F" : null
+},
+{
+  "A" : 345,
+  "B" : "Gentamicin Eye Drops IP 0.3% w/v",
+  "C" : "10 ml",
+  "D" : 6,
+  "E" : "Opthalmic/Otic",
+  "F" : null
+},
+{
+  "A" : 94,
+  "B" : "Gentamicin Sulphate Injection IP 80 mg per 2ml",
+  "C" : "2 ml",
+  "D" : 5,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 580,
+  "B" : "Ginseng, Multivitamins and multiminerals Capsules",
+  "C" : "10's",
+  "D" : 33,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 1643,
+  "B" : "Glargine 100 IU Pre- filled Disposable Pen",
+  "C" : "3ml Pre- filled Pen",
+  "D" : 415,
+  "E" : "Anti-Diabetic",
+  "F" : null
+},
+{
+  "A" : 1644,
+  "B" : "Glibenclamide 5 mg, Metformin 500 mg",
+  "C" : "10's",
+  "D" : 27.5,
+  "E" : "Anti-Diabetic",
+  "F" : null
+},
+{
+  "A" : null,
+  "B" : "and Pioglitazone 15 mg Tablet",
+  "C" : null,
+  "D" : null,
+  "E" : null,
+  "F" : null
+},
+{
+  "A" : 713,
+  "B" : "Glibenclamide 5mg and Metformin Hydrochloride 500mg Tablets IP",
+  "C" : "10's",
+  "D" : 12,
+  "E" : "Anti-Diabetic",
+  "F" : null
+},
+{
+  "A" : 133,
+  "B" : "Glibenclamide Tablets IP 2.5 mg",
+  "C" : "10's",
+  "D" : 3,
+  "E" : "Anti-Diabetic",
+  "F" : null
+},
+{
+  "A" : 134,
+  "B" : "Glibenclamide Tablets IP 5 mg",
+  "C" : "10's",
+  "D" : 5.5,
+  "E" : "Anti-Diabetic",
+  "F" : null
+},
+{
+  "A" : 1645,
+  "B" : "Gliclazide 60mg (Modified Release) and Metformin 500mg (Extended Release) Tablets",
+  "C" : "10's",
+  "D" : 30,
+  "E" : "Anti-Diabetic",
+  "F" : null
+},
+{
+  "A" : 1240,
+  "B" : "Gliclazide 80mg and Metformin Hydrochloride 500mg Tablets",
+  "C" : "10's",
+  "D" : 28.6,
+  "E" : "Anti-Diabetic",
+  "F" : null
+},
+{
+  "A" : 368,
+  "B" : "Gliclazide Extended release Tablets 60 mg",
+  "C" : "10's",
+  "D" : 44,
+  "E" : "Anti-Diabetic",
+  "F" : null
+},
+{
+  "A" : 135,
+  "B" : "Gliclazide Tablets IP 40 mg",
+  "C" : "10's",
+  "D" : 15.4,
+  "E" : "Anti-Diabetic",
+  "F" : null
+},
+{
+  "A" : 136,
+  "B" : "Gliclazide Tablets IP 80 mg",
+  "C" : "10's",
+  "D" : 24,
+  "E" : "Anti-Diabetic",
+  "F" : null
+},
+{
+  "A" : 2170,
+  "B" : "Glimepiride IP 0.5mg Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Anti-Diabetic",
+  "F" : null
+},
+{
+  "A" : 747,
+  "B" : "Glimepiride Tablets IP 3mg",
+  "C" : "10's",
+  "D" : 6.6,
+  "E" : "Anti-Diabetic",
+  "F" : null
+},
+{
+  "A" : 137,
+  "B" : "Glimepiride Tablets IP 1mg",
+  "C" : "10's",
+  "D" : 4.4,
+  "E" : "Anti-Diabetic",
+  "F" : null
+},
+{
+  "A" : 138,
+  "B" : "Glimepiride Tablets IP 2mg",
+  "C" : "10's",
+  "D" : 5.5,
+  "E" : "Anti-Diabetic",
+  "F" : null
+},
+{
+  "A" : 748,
+  "B" : "Glimepiride Tablets IP 4mg",
+  "C" : "10's",
+  "D" : 8,
+  "E" : "Anti-Diabetic",
+  "F" : null
+},
+{
+  "A" : 366,
+  "B" : "Glipizide 5mg and Metformin Hydrochloride 500mg Tablets",
+  "C" : "10's",
+  "D" : 9,
+  "E" : "Anti-Diabetic",
+  "F" : null
+},
+{
+  "A" : 141,
+  "B" : "Glipizide Tablet IP 5 mg",
+  "C" : "10's",
+  "D" : 5,
+  "E" : "Anti-Diabetic",
+  "F" : null
+},
+{
+  "A" : 8122,
+  "B" : "GLUCOMETER DIGITAL (1 glucometer, 25 strips, 25 lancets,1 lancing device,1 battery 3V, Warranty card)",
+  "C" : "1 Kit",
+  "D" : 525,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 8121,
+  "B" : "Glucometer Test Strip",
+  "C" : "25 Strips",
+  "D" : 225,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 671,
+  "B" : "Glucosamine 500mg and Diacerein 50mg Tablets",
+  "C" : "10's",
+  "D" : 55,
+  "E" : "Ortho",
+  "F" : null
+},
+{
+  "A" : 670,
+  "B" : "Glucosamine 750mg , Diacerein 50mg and Methylsulfonylmetha ne 250mg Tablets",
+  "C" : "10's",
+  "D" : 49.5,
+  "E" : "Ortho",
+  "F" : null
+},
+{
+  "A" : 1650,
+  "B" : "Glucosamine 750mg and Chondroitin 100mg Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Ortho",
+  "F" : null
+},
+{
+  "A" : 1651,
+  "B" : "Glucosamine Sulfate, Chondroitin Sulfat, MSM, Vitamin & Minerals Tablets",
+  "C" : "10's",
+  "D" : 65,
+  "E" : "Ortho",
+  "F" : null
+},
+{
+  "A" : 2171,
+  "B" : "Glucosamine Sulphate 1500mg Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Ortho",
+  "F" : null
+},
+{
+  "A" : 835,
+  "B" : "Glucosamine Sulphate 500mg and Chondroitin 400mg Tablets",
+  "C" : "10's",
+  "D" : 85,
+  "E" : "Ortho",
+  "F" : null
+},
+{
+  "A" : 2109,
+  "B" : "Glucosamine Tablets USP 500mg",
+  "C" : "30's in Bottle",
+  "D" : "Under Process",
+  "E" : "Ortho",
+  "F" : null
+},
+{
+  "A" : 1443,
+  "B" : "Glucose Powder (Orange Flavour) 100 g",
+  "C" : "100 gm Tetra pack",
+  "D" : 30,
+  "E" : "Nutraceuticals",
+  "F" : null
+},
+{
+  "A" : 1442,
+  "B" : "Glucose Powder (Orange Flavour) 300 g",
+  "C" : "300 g Box",
+  "D" : 65,
+  "E" : "Nutraceuticals",
+  "F" : null
+},
+{
+  "A" : 715,
+  "B" : "Glycerin IP 98%W/W",
+  "C" : "50 GM",
+  "D" : 20,
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : 1652,
+  "B" : "Glyceryl Trinitrate 2.5 mg capsule SR",
+  "C" : 25,
+  "D" : "Under Process",
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 906,
+  "B" : "Glyceryl Trinitrate Controlled Release Tablets 2.6mg (Nitroglycerin",
+  "C" : "30's",
+  "D" : 74,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : null,
+  "B" : "Controlled Release Tablets)",
+  "C" : null,
+  "D" : null,
+  "E" : null,
+  "F" : null
+},
+{
+  "A" : 1653,
+  "B" : "Glyceryl Trinitrate IP 2.5 mg TR Tablet",
+  "C" : 25,
+  "D" : "Under Process",
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 1993,
+  "B" : "Glycolic Acid 1% w/w and Aloe Vera 5% w/w Face Wash",
+  "C" : "100gm Tube",
+  "D" : "Under Process",
+  "E" : "Derma Care",
+  "F" : null
+},
+{
+  "A" : 1994,
+  "B" : "Glycolic Acid 1% w/w, Aloe Vera 5% w/w and Salicylic Acid 2% w/w Facewash",
+  "C" : "60ml Flip top Lemitube",
+  "D" : "Under Process",
+  "E" : "Derma Care",
+  "F" : null
+},
+{
+  "A" : 1191,
+  "B" : "Glycopyrrolate Injection IP 0.2mg",
+  "C" : "1 ml",
+  "D" : 7,
+  "E" : "Gastrointestinal (GIT)",
+  "F" : null
+},
+{
+  "A" : 392,
+  "B" : "Griseofulvin Tablets IP 250 mg",
+  "C" : "10's",
+  "D" : 16,
+  "E" : "Anti-Fungal",
+  "F" : null
+},
+{
+  "A" : 531,
+  "B" : "GUAIFENESIN 100 mg+ TERBUTALINE 2.5 mg+ BROMHEXINE 8 mg /10 ml SYRUP",
+  "C" : "100 ml",
+  "D" : 26.4,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 1654,
+  "B" : "Guaifenesin 100 mg, Dextromethorphan 10 mg and Phenylephrine 2.5 mg Syrup",
+  "C" : "100 ml",
+  "D" : 44,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 1655,
+  "B" : "Guaifenesin 100 mg, Dextromethorphan 5 mg, Phenylephrine 1 mg and Chlorpheniramin 4 mg Syrup",
+  "C" : "100 ml",
+  "D" : 45,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 2217,
+  "B" : "Guaifenesin 100mg, Terbutaline 1.25 mg and Ambroxol 15mg Syrup per 5ml (Suger free)",
+  "C" : "100 ml",
+  "D" : 30,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 1656,
+  "B" : "Guaifenesin 50mg, Terbutaline 1.25 mg and Ambroxol 15 mg Syrup",
+  "C" : "100 ml",
+  "D" : 30,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 2216,
+  "B" : "Guaifenesin 50mg, Terbutaline 1.25 mg and Ambroxol 30 mg Syrup per 5ml (Suger free)",
+  "C" : "100 ml",
+  "D" : 30,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 1657,
+  "B" : "Guaifenesin 50mg, Terbutaline 1.25 mg and Bromhexine 2 mg Expectorant",
+  "C" : "100 ml",
+  "D" : 25,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 1248,
+  "B" : "Haematinic Syrup of Iron 32mg ,Folic Acid 0.5mg and Vitamin B12 7.5mcg",
+  "C" : "200 ml Bottle",
+  "D" : 42,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 229,
+  "B" : "Haematinic syrup of Iron,Folic acid and Vitamin B12",
+  "C" : "100 ml",
+  "D" : 32,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 2055,
+  "B" : "Halobetasol Propionate Ointment 0.05% w/w",
+  "C" : "15gm Lemi Tube",
+  "D" : "Under Process",
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : 1473,
+  "B" : "Hand Sanitizer 100 ml (Each pack contains: Ethanol 70% v/v and Chlorhexidine Gluconate 0.5% w/v)",
+  "C" : "100 ml",
+  "D" : 40,
+  "E" : "Disinfectants",
+  "F" : null
+},
+{
+  "A" : 1475,
+  "B" : "Hand Sanitizer 250 ml (Each pack contains: Ethanol 70% v/v and Chlorhexidine Gluconate 0.5% w/v)",
+  "C" : "250 ml",
+  "D" : 100,
+  "E" : "Disinfectants",
+  "F" : null
+},
+{
+  "A" : 1474,
+  "B" : "Hand Sanitizer 500 ml (Each pack contains: Ethanol 70% v/v and Chlorhexidine Gluconate 0.5% w/v)",
+  "C" : "500 ml",
+  "D" : 200,
+  "E" : "Disinfectants",
+  "F" : null
+},
+{
+  "A" : 5079,
+  "B" : "HCG- Pregnancy Test Kit",
+  "C" : "1's",
+  "D" : 20,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 8196,
+  "B" : "Heating Pad (Electrical)",
+  "C" : "1’s in Mono Carton",
+  "D" : "Under Process",
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 419,
+  "B" : "Heparin Sodium 50IU and Benzyl Nicotinate 2mg Ointment",
+  "C" : "20 gm",
+  "D" : 40,
+  "E" : "Anticoagulant",
+  "F" : null
+},
+{
+  "A" : 280,
+  "B" : "Heparin Sodium Injection IP 1000 IU per ml",
+  "C" : "5 ml",
+  "D" : 39,
+  "E" : "Anticoagulant",
+  "F" : null
+},
+{
+  "A" : 281,
+  "B" : "Heparin Sodium Injection IP 5000 IU per ml",
+  "C" : "5 ml",
+  "D" : 200,
+  "E" : "Anticoagulant",
+  "F" : null
+},
+{
+  "A" : 8113,
+  "B" : "Hernia Belt (Small)",
+  "C" : "1's mono- carton",
+  "D" : 180,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 1884,
+  "B" : "Homatropine Hydrobromide Eye Drops IP 2% w/v",
+  "C" : "5ml Drops",
+  "D" : 26,
+  "E" : "Opthalmic/Otic",
+  "F" : null
+},
+{
+  "A" : 7001,
+  "B" : "Hot Water Bag (Small)",
+  "C" : "1's",
+  "D" : 160,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 910,
+  "B" : "Human Chorionic Gonadotrophin 5000 IU Powder For Inj. With solvent",
+  "C" : "Vial and solvent",
+  "D" : 215,
+  "E" : "Gynaecology",
+  "F" : null
+},
+{
+  "A" : 911,
+  "B" : "Human Menopausal Gonadotrophin Injection 75 IU with solvent(Menotropin for Inj IP.75 IU",
+  "C" : "Vial and solvent",
+  "D" : 350,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 1659,
+  "B" : "Human Normal Immunoglobulin 5% Solution I.V use only",
+  "C" : "100 ml",
+  "D" : "Under Process",
+  "E" : "Misc.",
+  "F" : null
+},
+{
+  "A" : 1660,
+  "B" : "Human Normal Immunoglobulin for IM admin 1 ml solution contains: 16.5% HN Immunoglobulin",
+  "C" : "2 ml vial",
+  "D" : "Under Process",
+  "E" : "Misc.",
+  "F" : null
+},
+{
+  "A" : 912,
+  "B" : "Hydrochlorothiazide Tablets IP 12.5mg",
+  "C" : "10's",
+  "D" : 6,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 913,
+  "B" : "Hydrocortisone Sodium Succinate Injection IP 100mg",
+  "C" : "Vial",
+  "D" : 20,
+  "E" : "Steroids & Hormones",
+  "F" : null
+},
+{
+  "A" : 459,
+  "B" : "Hydroquinone 2%w/w, Mometasone 0.1%w/w and Tretinoin 0.025%w/w Cream",
+  "C" : "20 gm",
+  "D" : 26.4,
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : 657,
+  "B" : "Hydroquinone 2.0% w/w + Tretinoin 0.025% w/w +",
+  "C" : "15 gm",
+  "D" : 22,
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : null,
+  "B" : "Mometasone Furoate 0.1% w/w Cream",
+  "C" : null,
+  "D" : null,
+  "E" : null,
+  "F" : null
+},
+{
+  "A" : 1476,
+  "B" : "Hydroxychloroquine Tablet IP 400 mg",
+  "C" : "10's",
+  "D" : 82,
+  "E" : "Anti-Malarial",
+  "F" : null
+},
+{
+  "A" : 509,
+  "B" : "Hydroxychloroquine Tablets IP 200 mg",
+  "C" : "10's",
+  "D" : 36,
+  "E" : "Anti-Malarial",
+  "F" : null
+},
+{
+  "A" : 1847,
+  "B" : "Hydroxychloroquine Tablets IP 200mg",
+  "C" : "10's",
+  "D" : 55.93,
+  "E" : "Anti-Malarial",
+  "F" : null
+},
+{
+  "A" : 2219,
+  "B" : "Hydroxyprogesterone Injection 250mg",
+  "C" : "1ml ampoule in Mono blister pack",
+  "D" : "Under Process",
+  "E" : "Gynaecology",
+  "F" : null
+},
+{
+  "A" : 2220,
+  "B" : "Hydroxyprogesterone Injection 500mg",
+  "C" : "2ml Ampoule in Mono blister",
+  "D" : "Under Process",
+  "E" : "Gynaecology",
+  "F" : null
+},
+{
+  "A" : 1661,
+  "B" : "Hydroxypropylmethyl cellulose Eye Drop 0.3% w/v",
+  "C" : "10 ml",
+  "D" : 30,
+  "E" : "Opthalmic/Otic",
+  "F" : null
+},
+{
+  "A" : 1199,
+  "B" : "Hydroxyurea Capsules IP 500mg",
+  "C" : "10's",
+  "D" : 66,
+  "E" : "Oncology",
+  "F" : null
+},
+{
+  "A" : 915,
+  "B" : "Hydroxyzine Hydrochloride Tablets IP 10mg",
+  "C" : "10's",
+  "D" : 7.7,
+  "E" : "Anti-Histaminic",
+  "F" : null
+},
+{
+  "A" : 1662,
+  "B" : "Hydroxyzine Tablets IP 25mg",
+  "C" : "15's",
+  "D" : 12,
+  "E" : "Anti-Histaminic",
+  "F" : null
+},
+{
+  "A" : 1663,
+  "B" : "Hyoscine Butylbromide 10mg and Mefenamic Acid 250mg Tablets",
+  "C" : "10's",
+  "D" : 50,
+  "E" : "Gastrointestinal (GIT)",
+  "F" : null
+},
+{
+  "A" : 194,
+  "B" : "Hyoscine Butylbromide Tablets IP 10 mg",
+  "C" : "10's",
+  "D" : 16,
+  "E" : "Gastrointestinal (GIT)",
+  "F" : null
+},
+{
+  "A" : 6035,
+  "B" : "I.V Cannula (Sterile, Disposable), 18 G",
+  "C" : "1's",
+  "D" : 15,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 6036,
+  "B" : "I.V Cannula (Sterile, Disposable), 20 G",
+  "C" : "1's",
+  "D" : 15,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 6037,
+  "B" : "I.V Cannula (Sterile, Disposable), 22 G",
+  "C" : "1's",
+  "D" : 15,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 6038,
+  "B" : "I.V Cannula (Sterile, Disposable), 24 G",
+  "C" : "1's",
+  "D" : 15,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 5037,
+  "B" : "I.V Cannula (Sterile, Disposable), 26 G",
+  "C" : "1's pack",
+  "D" : 17,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 2173,
+  "B" : "Ibendronic Acid Tablets 150mg",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Ortho",
+  "F" : null
+},
+{
+  "A" : 1664,
+  "B" : "Ibuprofen 100mg and Paracetamol/Acetami nophen 162.5mg Oral Suspension",
+  "C" : "100 ml",
+  "D" : 23,
+  "E" : "Analgesic/Antipyreti c/Anti-Inflammatory",
+  "F" : null
+},
+{
+  "A" : 14,
+  "B" : "Ibuprofen 400mg and Paracetamol 325mg Tablets IP",
+  "C" : "10's",
+  "D" : 8,
+  "E" : "Analgesic/Antipyreti c/Anti-Inflammatory",
+  "F" : null
+},
+{
+  "A" : 15,
+  "B" : "Ibuprofen Tablets IP 200 mg",
+  "C" : "10's",
+  "D" : 3,
+  "E" : "Analgesic/Antipyreti c/Anti-Inflammatory",
+  "F" : null
+},
+{
+  "A" : 16,
+  "B" : "Ibuprofen Tablets IP 400 mg",
+  "C" : "15's",
+  "D" : 8,
+  "E" : "Analgesic/Antipyreti c/Anti-Inflammatory",
+  "F" : null
+},
+{
+  "A" : 8134,
+  "B" : "Ice bag",
+  "C" : "1's",
+  "D" : 20,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 1201,
+  "B" : "Ifosfamide Inj. 1GM",
+  "C" : "VIAL",
+  "D" : 170,
+  "E" : "Oncology",
+  "F" : null
+},
+{
+  "A" : 2174,
+  "B" : "Ilaprazole Tablets 10mg",
+  "C" : "10's",
+  "D" : 25,
+  "E" : "Gastrointestinal (GIT)",
+  "F" : null
+},
+{
+  "A" : 1434,
+  "B" : "Imatinib mesylate FC Tablets IP 400mg",
+  "C" : "10's",
+  "D" : 350,
+  "E" : "Oncology",
+  "F" : null
+},
+{
+  "A" : 916,
+  "B" : "Imatinib Mesylate Tablets IP 400mg",
+  "C" : "10's",
+  "D" : 225,
+  "E" : "Oncology",
+  "F" : null
+},
+{
+  "A" : 376,
+  "B" : "Imipenem 500mg and Cilastatin 500mg Injection IP",
+  "C" : "Vial & Wfi",
+  "D" : 330,
+  "E" : "Antibiotic",
+  "F" : null
+},
+{
+  "A" : 917,
+  "B" : "Imipramine Hydrochloride Tablets IP 25mg",
+  "C" : "10's",
+  "D" : 5,
+  "E" : "Central Nervous System (CNS)",
+  "F" : null
+},
+{
+  "A" : 1465,
+  "B" : "Immunobooster Bar 10 gm",
+  "C" : "1's Bar",
+  "D" : 10,
+  "E" : "Nutraceuticals",
+  "F" : null
+},
+{
+  "A" : 1665,
+  "B" : "Indacaterol 110mcg and Glycopyrronium 50mcg Inhalation Powder, Hard Capsules",
+  "C" : "30 capsules and 1 inhaler",
+  "D" : "Under Process",
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 438,
+  "B" : "Indapamide Tablets IP 1.5 mg",
+  "C" : "10's",
+  "D" : 26,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 17,
+  "B" : "Indomethacin Capsules IP 25 mg",
+  "C" : "10's",
+  "D" : 13,
+  "E" : "Analgesic/Antipyreti c/Anti-Inflammatory",
+  "F" : null
+},
+{
+  "A" : 6027,
+  "B" : "Infant Feeding Tube, Sterile (Size-10 Fg, length 50 cm)",
+  "C" : "1's",
+  "D" : 10,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 6029,
+  "B" : "Infant Feeding Tube, Sterile (Size-5 Fg, length 50 cm)",
+  "C" : "1's",
+  "D" : 10,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 6028,
+  "B" : "Infant Feeding Tube, Sterile (Size-8 Fg, length 50 cm)",
+  "C" : "1's",
+  "D" : 10,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 629,
+  "B" : "Inhalent Softgel Capsules (Camphor 25mg, Chlorothymol 5mg, Eucalyptol 130mg, Menthol 55mg, Turpineol 110mg)",
+  "C" : "10's",
+  "D" : 28,
+  "E" : "Decongestant",
+  "F" : null
+},
+{
+  "A" : 1965,
+  "B" : "Insulin Aspart Injection IP 100IU per ml",
+  "C" : "10ml Vial",
+  "D" : "Under Process",
+  "E" : "Anti-Diabetic",
+  "F" : null
+},
+{
+  "A" : 363,
+  "B" : "Insulin Glargine Injection IP 100 IU per ml",
+  "C" : "Cartridge 3 ml",
+  "D" : 340,
+  "E" : "Anti-Diabetic",
+  "F" : null
+},
+{
+  "A" : 1666,
+  "B" : "Insulin glulisine injection (monocomponent insulin glulisine)",
+  "C" : "3 ml",
+  "D" : "Under Process",
+  "E" : "Anti-Diabetic",
+  "F" : null
+},
+{
+  "A" : 143,
+  "B" : "Insulin Injection IP (Insulin Human Soluble 30% and",
+  "C" : "10 ml Vial",
+  "D" : 90,
+  "E" : "Anti-Diabetic",
+  "F" : null
+},
+{
+  "A" : null,
+  "B" : "Isophane 70%) 40 IU/ml",
+  "C" : null,
+  "D" : null,
+  "E" : null,
+  "F" : null
+},
+{
+  "A" : 920,
+  "B" : "Insulin Regular (R- DNA Origin) Injection 100 IU",
+  "C" : "3 ml Catridge",
+  "D" : 170,
+  "E" : "Anti-Diabetic",
+  "F" : null
+},
+{
+  "A" : 6033,
+  "B" : "Insulin Syringe (40 units) with 30G needle",
+  "C" : "1's",
+  "D" : 5,
+  "E" : "Surgical & Medical Consumables",
+  "F" : null
+},
+{
+  "A" : 1667,
+  "B" : "Insuline Lispro injection IP. 100IU/ML",
+  "C" : "3 ml",
+  "D" : "Under Process",
+  "E" : "Anti-Diabetic",
+  "F" : null
+},
+{
+  "A" : 566,
+  "B" : "Ipratropium Bromide Respirator Solution 250mcg",
+  "C" : "15 ML",
+  "D" : 28,
+  "E" : "Respiratory",
+  "F" : null
+},
+{
+  "A" : 1223,
+  "B" : "Iron 50mg, Folic Acid 0.5mg and Zinc 61.8mg Capsules",
+  "C" : "15's",
+  "D" : 22,
+  "E" : "Supplement/Vitamin/ Mineral",
+  "F" : null
+},
+{
+  "A" : 2175,
+  "B" : "Iron Sucrose Injection",
+  "C" : "1's",
+  "D" : 33,
+  "E" : "Electrolytes",
+  "F" : null
+},
+{
+  "A" : 922,
+  "B" : "Isopropyl Alcohol IP (70%) (Spirit)",
+  "C" : "100 ML bottle",
+  "D" : 40,
+  "E" : "Dermatology/Topical /External",
+  "F" : null
+},
+{
+  "A" : 1669,
+  "B" : "Isosorbide 20mg and Hydralazine 37.5mg Tablets",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 283,
+  "B" : "Isosorbide Dinitrate Tablets IP 10mg",
+  "C" : "50's",
+  "D" : 21,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 443,
+  "B" : "Isosorbide Dinitrate Tablets IP 5 mg",
+  "C" : "50's",
+  "D" : 20,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 433,
+  "B" : "Isosorbide Mononitrate Sustained Release Tablets 30 mg",
+  "C" : "30's",
+  "D" : 70,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 2110,
+  "B" : "Isosorbide Mononitrate Sustained release Tablets 50mg",
+  "C" : "10's",
+  "D" : "Under Process",
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 923,
+  "B" : "Isosorbidemononitrat e Tablets IP 20mg",
+  "C" : "10's",
+  "D" : 8,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 2111,
+  "B" : "Isotretinoin Capsules IP 10mg",
+  "C" : "10's",
+  "D" : 30,
+  "E" : "DERMA",
+  "F" : null
+},
+{
+  "A" : 1670,
+  "B" : "Isotretinoin Capsules IP 20mg",
+  "C" : "10's",
+  "D" : 50,
+  "E" : "Derma Care",
+  "F" : null
+},
+{
+  "A" : 924,
+  "B" : "Isoxsuprine Hydrochloride Tablets IP 10mg",
+  "C" : "50's",
+  "D" : 45,
+  "E" : "Cardiovascular System (CVS)",
+  "F" : null
+},
+{
+  "A" : 1328,
+  "B" : "Isoxsuprine Injection IP 5 mg",
+  "C" : "2 ml Vial",
+  "D" : 10,
+  "E" : "Gynaecology",
+  "F" : null
+},
+{
+  "A" : 493,
+  "B" : "Ispaghula Husk IP",
+  "C" : "50 GM",
+  "D" : 18,
+  "E" : "Gastrointestinal (GIT)",
+  "F" : null
+},
+{
+  "A" : 494,
+  "B" : "Ispaghula Husk IP",
+  "C" : "100 GM",
+  "D" : "Under Process",
+  "E" : "Gastrointestinal (GIT)",
+  "F" : null
+}]}
